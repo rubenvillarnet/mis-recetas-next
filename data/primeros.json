@@ -1,0 +1,530 @@
+[
+  {
+    "title": "Alcachofas - Ru style",
+    "ingredients": [
+      "2 botes de alcachofas",
+      "1 cebolla",
+      "Minitaquitos de jamón",
+      "Harina",
+      "Aceite"
+    ],
+    "steps": [
+      "Se corta la cebolla en juliana y se pocha en una sartén. Cuando esté pochada se quita aceite (casi todo).",
+      "Se abren los botes de alcachofas y reservamos el líquido. Partimos las alcachofas por la mitad. Se añaden ahora las alcachofas a la cebolla con la parte cortada hacia abajo.",
+      "Se añade el agua de las alcachofas y media cucharadita de harina tamizada, para que no queden grumos, y espese un poco la salsa. Se añaden los tacos de jamón y se deja un par de minutos."
+    ],
+    "footnote": "No se añade sal, el jamón y las alcachofas con el caldo ya llevan sal."
+  },
+  {
+    "title": "Pastel de puerros",
+    "ingredients": [
+      "6 puerros",
+      "Mantequilla o aceite",
+      "Jamón York",
+      "1 cucharada de harina",
+      "2 yemas de huevo",
+      "1/4 de nata de cocinar",
+      "1 o 2 planchas de hojaldre",
+      "Sal",
+      "Pimienta"
+    ],
+    "steps": [
+      "Limpiar los puerros: quitamos las raíces, se quita 1 o 2 láminas enteras y la parte verde oscura no se aprovecha mucho. Se abre cada puerro en cruz hasta la mitad y se lava bajo el grifo, ya que tienen tierra. Se cortan en rodajas.",
+      "Se pone al fuego un cazo con agua y sal; cuando hierva se echa el puerro, se tiene 15 minutos hirviendo. Entonces se saca y se escurre bien.",
+      "En una sartén se echa aceite, y se saltean los puerros. Se echa una cucharada de harina (para que se haga un poco de besamel con la nata de después). Habiendo mezclado a parte la nata con las yemas, se mezcla con los puerros en la sartén. Se salpimenta, y se deja que cuaje un poco. Se añade el jamón muy troceado. Se deja enfriar.",
+      "En una bandejita de aluminio, se extiende el hojaldre (paredes y suelo). Se pone el relleno dentro. Se tapa con otra lámina de hojaldre, se unta con huevo batido, o con las claras, y se adorna a gusto. Se hornea a 180º unos 20 o 30 minutos, con el horno previamente precalentado."
+    ],
+    "image": "pastel-puerros.jpeg"
+  },
+  {
+    "title": "Albóndigas de morcilla",
+    "ingredients": [
+      "morcilla",
+      "1 huevo",
+      "Almendras picadas o molidas",
+      "Piñones picados",
+      "Harina",
+      "Aceite"
+    ],
+    "steps": [
+      "Deshacer la morcilla y quitar impurezas (trozos ligosos, sangre...).",
+      "Añadir un huevo, los piñones y las almendras. Se amasa como si fueran albóndigas. Se hacen bolitas, se pasan por harina y se fríen"
+    ]
+  },
+  {
+    "title": "Alcachofas (versión mamá)",
+    "ingredients": [
+      "8 alcachofas frescas",
+      "1⁄2 limón",
+      "Sal",
+      "Aliño (bacón, jamón, ajos... al gusto)"
+    ],
+    "steps": [
+      "Para limpiar las alcachofas es importante usar guantes de latex, porque si no se quedan las manos negras y amargas. Se quitan las hojas feas de fuera y se desecha la punta; se separa el rabo y se pela; se abren por la mitad. Se lavan con agua.",
+      "Mientras, la olla está al fuego con agua y sal, y el zumo de medio limón. Cuando hierva el agua, echar las alcachofas y los rabos. Dejar durante 20 minutos con presión.",
+      "Luego se pueden arreglar con ajos, aceite crudo, jamón, bacon, o guisadas: se hace a parte el jamón con ajos, por ejemplo, y se añade a las alcachofas una vez tirado el agua de cocerlas.",
+      "Se deja que dé junto un hervor, y estaría listo."
+    ]
+  },
+  {
+    "title": "Arroz con picadillo para dos",
+    "ingredients": [
+      "3⁄4 de un vaso de agua de arroz bomba",
+      "1⁄2 cebolla",
+      "1 choricillo fresco (opcional)",
+      "200gr. de picadillo",
+      "1⁄2 pastilla de avecrem",
+      "aceite"
+    ],
+    "steps": [
+      "Poner aceite en la cazuela y sofreír la cebolla, muy picadita. Añadir el chorizo picado y el picadillo, y sofreír.",
+      "Añadir el arroz y remover. Añadir el doble de agua que de arroz, echar avecrem, remover todo y dejarlo cocinar a fuego lento. No mover el arroz mientas se está haciendo.",
+      "Si evapora el agua y el arroz no está hecho, añadir un poco más.",
+      "Tarda en evaporarse el agua y estar hecho unos 30-40 minutos."
+    ],
+    "image": "arroz-picadillo.jpg"
+  },
+  {
+    "title": "Ensaladilla rusa",
+    "ingredients": [
+      "3 patatas medianas",
+      "3 zanahorias pequeñas",
+      "4 huevos",
+      "3 palitos de cangrejo (surimi)",
+      "Aceitunas",
+      "Guisantes",
+      "2 latillas de atún al natural",
+      "Mayonesa, ¡mejor casera!"
+    ],
+    "steps": [
+      "Lavar las patatas, las zanahorias y los huevos y poner a cocer.",
+      "Retirar los huevos tras 10 – 15 minutos hirviendo. Las patatas y las zanahorias, cuando al pincharlas estén blandas.",
+      "Apartar para decorar: las yemas de los 4 huevos y un huevo entero, algunas aceitunas, guisantes,... al gusto.",
+      "Picar en cuadraditos pequeños las patatas y las zanahorias, y también las claras de 3 de los huevos.",
+      "Picar también el surimi, las aceitunas, desmigar el atún, y añadir los guisantes.",
+      "Mezclar todo bien, y añadir mayonesa al gusto.",
+      "Colocar en una fuente y cubrir con mayonesa, y decorar al gusto."
+    ]
+  },
+  {
+    "title": "Gazpacho de cerezas",
+    "ingredients": [
+      "150 gr. de cerezas",
+      "picotas",
+      "6 tomates (pera, por ejemplo)",
+      "1 cebolla tierna",
+      "1 pimiento verde pequeño",
+      "Aceite",
+      "sal"
+    ],
+    "steps": [
+      "Deshuesar las picotas.",
+      "Pelas los tomates y limpiar la cebolla y el pimiento.",
+      "Añadir todo al vaso picador de la batidora.",
+      "Picar bien. Colar y ayudándose de un cazo para que vaya cayendo todo.",
+      "Se puede rectificar de sal después."
+    ],
+    "footnote": "Con esas cantidades han salido 666gr. Da para 3 raciones de 222gr. cada una."
+  },
+  {
+    "title": "Hojaldre de morcilla",
+    "ingredients": [
+      "1 morcilla",
+      "1 cebolla",
+      "1⁄2 pimiento verde",
+      "1 zanahoria",
+      "Lámina de hojaldre"
+    ],
+    "steps": [
+      "Se trocea todo menos la morcilla, se hace muy bien con la picadora.",
+      "Primero la zanahoria se pone a pochar. Mientras tanto picamos la cebolla, y se añade a la sartén.",
+      "Mientras picamos el pimiento verde, y se añade.",
+      "Cuando está todo bien pochado se añade la morcilla deshecha, y se mezcla bien. ¡¡NO AÑADIR SAL!!",
+      "Cuando enfríe se coloca en el hojaldre y se hornea 30 minutos a 180º - 200º, con el horno previamente precalentado(seguir las indicaciones del paquete de hojaldre)"
+    ]
+  },
+  {
+    "title": "Huevos a la cazuela con espinacas",
+    "ingredients": [
+      "1 huevo",
+      "100gr. espinacas",
+      "Nata de cocinar (un chorrito) (para 4 = 1⁄2 taza)",
+      "Pan bimbo o normal",
+      "1⁄2 cucharada de mantequilla",
+      "1⁄2 cucharada de queso rallado",
+      "Sal",
+      "pimienta"
+    ],
+    "steps": [
+      "Precalentar el horno a 225º.",
+      "Limpiar y cocer las espinacas en un dedo de agua; escurrirlas muy bien y picarlas.",
+      "Derretir la mantequilla en un cazo, agregar las espinacas y rehogar ligeramente.",
+      "Añadir la nata y cuando haya espesado un poco retirar y colocar en una cazuelita por persona.",
+      "Cascar un huevo en el centro de cada cazuelita, cubrir con un poco de queso y hornear hasta que las claras hayan cuajado.",
+      "Acompañar de unas rebanadas de pan tostado o frito."
+    ]
+  },
+  {
+    "title": "Legumbres de bote",
+    "ingredients": [
+      "2 botes grandes de legumbres",
+      "1 pastilla de Avecrem o sal",
+      "Aceite",
+      "Pimentón dulce",
+      "Morcilla (opcional)",
+      "Choricillos frescos",
+      "2 dientes de ajo",
+      "1 trozo de cebolla",
+      "1 Zanahoria",
+      "Perejil (fresco o seco)",
+      "1 trozo de pimiento verde"
+    ],
+    "steps": [
+      "Deslavar la legumbre primero. Ponerlas en la olla y cubrirlas de agua limpia y un poco más.",
+      "Se añaden todos los ingredientes: la zanahoria, la cebolla, el ajo, el perejil, el pimiento verde, el avecrem, y el choricillo.",
+      "Se cierra la olla. Se deja unos 20 minutos con presión.",
+      "Cuando pase el tiempo, se sacan las verduras y una cucharada de la legumbre, y se machacan con el tenedor en un plato aparte (o con batidora).",
+      "Se añade a la olla y se remueve (esto es para espesar el guiso).",
+      "Entonces se añade la morcilla (con los cortes poco marcados), ya que si se mete desde el principio se puede deshacer, y de este modo, con el calor residual, se hace la morcilla suficiente.",
+      "Para arreglar la legumbre con pimentón dulce (las alubias si, las lentejas no): Se pone aceite a calentar en una sartén. Se coge pimentón con la punta de una cuchara, y cuando el aceite esté caliente, se va cogiendo con la cuchara del pimentón, y se va añadiendo al guiso (hasta que el pimentón esté disuelto y no quede nada en la cuchara)."
+    ]
+  },
+  {
+    "title": "Legumbres frescas",
+    "ingredients": [
+      "Legumbre, 100gr. por persona",
+      "1 pastilla de Avecrem o sal",
+      "Aceite",
+      "Pimentón dulce",
+      "Morcilla (opcional)",
+      "Choricillo fresco",
+      "2 ajos",
+      "Cebolla",
+      "Zanahoria",
+      "Perejil (fresco o seco)",
+      "Pimiento verde"
+    ],
+    "steps": [
+      "Se pone la legumbre en remojo la noche anterior, después de deslavarlas un poco, (también puede ser legumbre en bote, en este caso deslavar bien).",
+      "Se pone la olla a presión con la legumbre y el agua en el que estuvo a remojo, que ya tiene sabor, y más agua fría hasta cubrir la legumbre y un poco más (si no es fría se encallan, se quedan duras y ya no vuelven).",
+      "A ese mismo agua se añaden los ajos, la cebolla, la zanahoria, el pimiento verde, el perejil, el Avecrem (1⁄4 de pastilla por ración), el choricillo y la morcilla.",
+      "Se cierra la olla y se deja unos 20 o 30 minutos con la presión.",
+      "Cuando está, se saca a un plato la verdura y se machaca con un tenedor (o en batidora), para espesar un poco el cocido, y si es necesario también se machacan unas pocas legumbres (al pimiento verde, se le saca la carne, la piel es dura y no se machaca bien).",
+      "Después, si son alubias, se arreglan con pimentón dulce: en una sartén se echa aceite y se dora un ajo. Con una cuchara se coge el pimientón y a la vez se va cogiendo aceite caliente. Se añade al guiso cucharada a cucharada."
+    ]
+  },
+  {
+    "title": "Lombarda con manzana",
+    "ingredients": [
+      "1⁄2 o 1 cebolla",
+      "1 o 2 manzanas, mejor reineta",
+      "Piñones (opcional)",
+      "Lombada, 1⁄2 o 1⁄4 , según el tamaño",
+      "Aceite",
+      "agua"
+    ],
+    "steps": [
+      "Para limpiar la lombarda, se quita la hoja de fuera y se da un agua.",
+      "Se pone en la olla aceite en el fondo. Se pocha la cebolla.",
+      "Cuando esté se añade la manzana pelada en trozos.",
+      "Se añaden los piñones y la lombarda. Se añade la sal y se añade un dedito o dos de un vaso de agua (la lombarda suelta líquido).",
+      "Se cierra la olla y se deja 10 minutos con la presión. La manzana se suele deshacer."
+    ],
+    "image": "lombarda-manzana.jpeg"
+  },
+  {
+    "title": "Migas con chorizo",
+    "ingredients": [
+      "Pan duro",
+      "Choricillo fresco",
+      "Aceite"
+    ],
+    "steps": [
+      "Mojar el pan, y cubrirlo con un trapo limpio, para que todo ello se humedezca y reblandezca.",
+      "Cuando esté suficientemente blandito, picar con una tijera.",
+      "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan. Remover constantemente mientras se cocinan (se pegan fácilmente). Añadir la sal a mitad del proceso."
+    ]
+  },
+  {
+    "title": "Ñoquis con salsa Roquefort",
+    "ingredients": [
+      "250 gr. de ñoquis",
+      "Trozo de queso Roquefort",
+      "200ml de nata de cocinar",
+      "Sal"
+    ],
+    "ingredientsLabel": "Para una ración, plato único",
+    "steps": [
+      "Cocer los ñoquis según el fabricante (normalmente, se echan en agua hirviendo con sal, se tienen un minuto, y cuando flotan significa que están listos).",
+      "Derretir el queso con la nata al microondas o en una cazuela aparte.",
+      "Añadir la salsa sobre los ñoquis en cada plato."
+    ],
+    "footnote": "Se puede preparar menos cantidad de ñoquis para hacer un segundo que combine bien con esta salsa: pollo a la plancha, solomillo, etc..."
+  },
+  {
+    "title": "Paella de marisco",
+    "ingredientsLabel": "Para 4 personas",
+    "ingredients": [
+      "1 taza de arroz",
+      "Pimiento verde",
+      "Cebolla",
+      "Tomate",
+      "4 chipirones o 4 rodajas de calamar",
+      "100 gr. de almejas",
+      "1 tajada de congrio",
+      "1 pastilla de Avecrem",
+      "Colorante o azafrán",
+      "Gambas",
+      "Alubias verdes",
+      "Aceite"
+    ],
+    "steps": [
+      "Poner aceite en una cazuela, rehogar cebolla troceada muy menuda.",
+      "Cuando esté dorada añadir el pimiento partido en trozos grandes.",
+      "Cuando esté más o menos hecho, añadir el tomate pelado en trozos.",
+      "Añadir los chipirones/calamar troceados, las gambas peladas, las almejas, la tajada de congrio troceada y las alubias verdes (¡se puede añadir en este punto lo que se quiera!)",
+      "Cuando esté todo rehogadito añadir el arroz redondo, y dos partes de agua*, 1 pastilla de Avecrem en trocitos y el colorante o azafrán.",
+      "Se tiene a fuego fuerte hasta que empiece a hervir; en ese momento se baja a fuego medio. Estará hecho cuando el agua evapore y el arroz esté blando (no se remueve mientras se está cocinando)"
+    ],
+    "footnote": "un truco: cocer a parte las cabezas de las gambas, las almejas, el congrio, ... y después utilizar ese agua -colada- para cocer el arroz... ¡da más sabor!"
+  },
+  {
+    "title": "Pasta carbonara con Philadelphia",
+    "ingredients": [
+      "Pasta (macarrones o tallarines)",
+      "Bacón",
+      "2 yemas de huevo",
+      "125gr. Philadelphia",
+      "Sal",
+      "pimienta"
+    ],
+    "ingredientsLabel": "para dos",
+    "steps": [
+      "Cocemos la pasta.",
+      "Freímos el bacón en tiras finas y lo salpimentamos.",
+      "Batimos las yemas de huevo, añadimos una generosa cantidad de philadelphia, mezclamos y salpimentamos.",
+      "Escurrimos la pasta y la incorporamos al bacón.",
+      "Finalmente incorporamos la salsa."
+    ],
+    "image": "carbonara-philadelphia.jpg"
+  },
+  {
+    "title": "patatas a la Einstein",
+    "ingredientsLabel": "dos raciones plato único",
+    "ingredients": [
+      "Puré de patatas instantáneo",
+      "1/2 litro de caldo (de jamón, de ocido, o de lo que quieras)",
+      "Cebolla",
+      "Lata de pimiento rojo asado",
+      "Choricillo tierno",
+      "Diente de ajo",
+      "Pimentón dulce",
+      "Sal",
+      "Aceite de oliva"
+    ],
+    "steps": [
+      "En una cazuela se pone el aceite y el ajo picadito.",
+      "Cuando comience a dorarse, añadimos la cebolla.",
+      "Cuando esté bien pochada, se añade el choricillo en rodajas o picado.",
+      "Cuando coja colorcillo añadimos una pizca de sal, el pimiento rojo asado y un poco de pimentón dulce.",
+      "Se mezcla bien y se añade el caldo.",
+      "Se deja hervir un par de minutos, se retira del fuego y se añaden los copos de puré hasta que tenga el espesor deseado."
+    ],
+    "image": "patatas-einstein.jpg"
+  },
+  {
+    "title": "patatas a la importancia",
+    "ingredients": [
+      "Patatas",
+      "Harina",
+      "Huevos",
+      "Sal",
+      "Aceite",
+      "Ajo fresco",
+      "Perejil fresco",
+      "Agua"
+    ],
+    "steps": [
+      "Pelar las patatas y partirlas en rodajas más o menos gruesas.",
+      "Salarlas y rebozarlas con harina y huevo.",
+      "Freírlas en abundante aceite con el fuego no muy fuerte y colocarlas en una cazuela.",
+      "Se machaca ajo y perejil, se añade agua en el mortero y se reserva.",
+      "Se retira casi todo el aceite de haberlas frito. En ese aceite añadimos media cucharada de harina, ahí sofreímos el ajo y perejil machacados.",
+      "Se da una vuelta y rápidamente se añade más agua con el mortero, y se deja que hierva en la sartén.",
+      "Cuando esté, se añade a la cazuela.",
+      "En la cazuela echamos más agua, casi que las cubra, o algo menos.",
+      "Las patatas absorberán casi todo el agua. Se debe remover de vez en cuando para evitar que se peguen, agitando un poco la cazuela, porque si lo hacemos con una cuchara se pueden romper. Se deja que hiervan, y cuando estén blanditas, ¡estarán listas!"
+    ]
+  },
+  {
+    "title": "patatas guisadas",
+    "ingredients": [
+      "Patatas",
+      "Choricillo fresco o picadillo",
+      "Aceite",
+      "Sal",
+      "Pimentón (opcional)",
+      "Cebolla (opcional)",
+      "Ajo fresco (opcional)",
+      "Perejil (fresco o seco) (opcional)"
+    ],
+    "steps": [
+      "Se echa aceite en la cazuela, se pica fina la cebolla, y se echa a la cazuela.",
+      "Cuando esté dorada se echa el chorizo picado o el picadillo y se rehoga.",
+      "A parte ya tienes las patatas partidas o troceadas y se añaden al guiso.",
+      "Las rehogas en el aceite.",
+      "Se puede añadir una cucharadita de pimentón según cómo sea el chorizo.",
+      "Machacas ajo y perejil y lo añades al guiso con un poco de agua.",
+      "A continuación se añade agua al guiso, que las cubra enteras casi, aunque es preferible quedarse corto, y añadir después si fuera necesario."
+    ],
+    "footnote": "El sofrito inicial admite todo tipo de verdura."
+  },
+  {
+    "title": "Patatas rellenas",
+    "ingredients": [
+      "3 Patatas grandes",
+      "1⁄2 pimiento verde",
+      "1⁄2 cebolla",
+      "1⁄2 zanahoria",
+      "1 tomatito",
+      "1 diente de ajo",
+      "300 o 400 gr. de carne picada",
+      "Perejil (fresco o seco)",
+      "Queso de fundir (rallado o una loncha por unidad)",
+      "Sal"
+    ],
+    "steps": [
+      "Cocer las patatas, pelar y dejar enfriar.",
+      "Partirlas por la mitad y vaciar el interior. Esa patata que quitamos la incluiremos en el relleno después.",
+      "A parte, partir muy menudo la cebolla, el pimiento, el tomate, la zanahoria y el ajo.",
+      "Pochar todo y echar el perejil.",
+      "Cuando esté bien pochadito añadir la carne y la patata que sacamos. Salar.",
+      "Cuando esté hecho, rellenar las patatas. Poner el queso encima y hornear fuerte (180º) unos 20 minutos."
+    ]
+  },
+  {
+    "title": "Pizzas de berenjena",
+    "ingredients": [
+      "1 berenjena",
+      "200 gr. de carne picada",
+      "1 tomate de guisar",
+      "1 cebolla",
+      "1 ajo",
+      "Queso de fundir",
+      "Aceite",
+      "Sal",
+      "Azúcar",
+      "Pimienta negra"
+    ],
+    "steps": [
+      "Cortar la berenjena en láminas de 1 cm. Hornear 30 minutos a 180º con aceite, sal y pimienta negra.",
+      "Mientras tanto se pica muy bien y se hace un sofrito de cebolla, ajo, tomate y carne (se añade un poquito de azúcar para el tomate, y sal).",
+      "Cuando esté la berenjena, se coloca el sofrito encima, y se pone queso sobre el sofrito.",
+      "Se hornea al grill 15 minutos para que funda el queso."
+    ],
+    "image": "pizzas-berenjena.jpeg"
+  },
+  {
+    "title": "Puré de calabacín con bacón",
+    "ingredients": [
+      "Patatas",
+      "1 Cebolla",
+      "2 ajos",
+      "Quesitos",
+      "Calabacín",
+      "Avecrem o sal",
+      "Bacon o jamón serrano"
+    ],
+    "steps": [
+      "Poner a hervir agua (tener en cuenta que el calabacín suelta mucho agua). Lavar el calabacín y quitar un poco de piel (lo feo). Se parte en trozos cascados.",
+      "Se pelan las patatas y se parten igual. Se limpia también la cebolla y los ajos y se añaden.",
+      "Se cuecen las patatas, calabacín, cebolla, ajos y avecrem, y cuando está cocido, se corrige de agua y sal.",
+      "Se pasa la batidora, pero primero se quita caldo si sobra (se puede aprovechar para comer una sopa riquísima)",
+      "En el momento que se vaya a comer, se añaden los quesitos y se pasa la batidora otra vez.",
+      "Se fríe bacón en tiritas finas, y se churrusca bien.",
+      "Se sirve el puré en los platos y luego en cada uno se echa bacón y algo de aceitillo."
+    ]
+  },
+  {
+    "title": "Puré de calabaza",
+    "ingredients": [
+      "1⁄2 calabaza",
+      "1 cebolla mediana",
+      "3 patatas (400gr. +/-)",
+      "1 o 2 zanahorias",
+      "Quesitos",
+      "Sal",
+      "Bacon (opcional)"
+    ],
+    "steps": [
+      "Limpiar, pelar y partir los 4 vegetales.",
+      "Poner en la olla 1 vaso y medio de agua y sal.",
+      "Abrir después de 20 minutos de cocción.",
+      "Corregir de caldo y pasar la batidora.",
+      "En el momento que se vaya a comer, se añaden los quesitos y se pasa la batidora otra vez."
+    ],
+    "footnote": "Opcional: freír bacón en tiras a la hora de comerlo, y añadirlo en el centro de cada plato."
+  },
+  {
+    "title": "sopa de verduras",
+    "ingredients": [
+      "Sopa juliana de Alimerka (350gr.) con zanahoria, repollo, berza, puerro y apio.",
+      "2 pastillas de Avecrem",
+      "1 taco de jamón serrano",
+      "1 choricillo fresco",
+      "1 chorrito de aceite"
+    ],
+    "steps": [
+      "Echar en la olla 4 tapers de los blancos (comida china) de agua, y agregar todos los ingredientes; la verdura bien picada.",
+      "Tener en la olla con presión unos 20 minutos."
+    ]
+  },
+  {
+    "title": "sopas de ajo",
+    "ingredients": [
+      "4 ajos",
+      "1 choricillo fresco",
+      "150 gr. de pan de ayer",
+      "1 huevo, o más",
+      "aceite",
+      "sal (opcional)",
+      "Pimentón dulce",
+      "1 litro de agua y una pastilla de avecrem, o 1 litro de caldo de pollo"
+    ],
+    "steps": [
+      "Cubrir toda la base dela cazuela de aceite",
+      "Añadir los ajos laminados",
+      "cuando empiecen a 'bailar' un poco, añadir el chorizo muy picado",
+      "Antes de que el ajo coja demasiado color, añadir el pan en rodajas finas (1 cm.), y se remueve bien, para que coja el sabor",
+      "Añadir una cucharadita de pimentón dulce y seguir rehogando",
+      "añadir el agua y la pastilla de avecrem en trocitos",
+      "Dejar hervir 20 minutos a fuego medio",
+      "cuando pase este tiempo es el momento de corregir de sal. Con el chorizo y el avecrem no suele hacer falta añadir más",
+      "añadir un huevo batido, remover, y dejar tres minutos.",
+      "se puede añadir también un huevo sin batir por persona, se deja cocinar 3 minutos"
+    ]
+  },
+  {
+    "title": "Paella de carne y verduras",
+    "ingredients": [
+      "vaso y medio de arroz",
+      "media cebolla",
+      "2 tomates de rama",
+      "1/4 pimiento verde",
+      "alubias verdes",
+      "un poco de carne de pollo",
+      "un poco de carne de cerdo",
+      "un par de lonchas de bacon adobado",
+      "un choricillo",
+      "pastilla de avecrem"
+    ],
+    "steps": [
+      "Poner bastante aceite en el fondo de la cazuela, y sofreir las verduras picadas, primero la cebolla, luego el pimiento, y luego el tomate.",
+      "Cuando estén, añadir la carne, de ingrediente en ingrediente, picado (admite la carne que se quiera).",
+      "Añadir una pastilla de avecrem y deshacerla bien.",
+      "Añadir el arroz, y darlo vueltas con el resto de ingredientes, que se mezclen bien los sabores.",
+      "Añadir el doble de agua que de arroz, y dejar que hierva a fuego medio-bajo."
+    ],
+    "ingredientsLabel": "Salen 6 raciones"
+  }
+]

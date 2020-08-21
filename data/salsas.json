@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Mayonesa",
+        "ingredients": [
+            "1 huevo",
+            "1⁄4 litro de aceite",
+            "Puntita de sal",
+            "Chorretín de vinagre",
+            "Batidora (disco de cuchillas)"
+        ],
+        "steps": [
+            "Poner en el vaso de la batidora primero el huevo, luego el aceite, y la puntita de sal y el vinagre a continuacion. Meter la batidora hasta el fondo y no moverla, hasta que la mayonesa esté casi hecha. Entonces ya sí se mueve ligeramente.",
+            "Si se corta (es decir, que no cuaja, se queda líquida, pero no mala) se suele arreglar echando más aceite. Si no se consigue arreglar, mejor tirarla y hacerla de nuevo."
+        ]
+    },
+    {
+        "title": "Tomate frito casero",
+        "ingredients": [
+            "2 kg. de tomates",
+            "1 cebolla",
+            "3⁄4 o 1 pimiento verde de los gordos",
+            "3 dientes de ajo",
+            "12 gr. de azúcar",
+            "12 gr. de sal",
+            "Aceite"
+        ],
+        "steps": [
+            "Cubrir el fondo de la sartén con bastante aceite. Añadir la cebolla, el pimiento y los ajos en trozos. Se rehoga bien.",
+            "Cuando la cebolla empiece a cambiar de color se añade el tomate (se quita el rabo y se trocea. Se echa con piel y todo; si acaso se elimina un poco de agüilla y algunas pipas).",
+            "Se deja que hierva a fuego medio hasta que se haga bien.",
+            "Cuando esté hecho se añade el azúcar y la sal, y que dé otro hervorcillo.",
+            "Se pasa la batidora y luego por el pasapurés."
+        ],
+        "footnote": "Haciendo tanta cantidad lo ideal es embotar el tomate."
+    },
+    {
+        "title": "Cómo embotar",
+        "ingredients": [
+            "Botes",
+            "Cazuela alta"
+        ],
+        "steps": [
+            "Se echa al bote el producto a embotar, se llena a tope, y se cierra bien.",
+            "Se ponen todos los botes en una cazuela con agua, que estén cubiertos por completo.",
+            "Desde que rompe a hervir se tiene 20 minutos más hirviendo."
+        ]
+    }
+]
