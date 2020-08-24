@@ -1,7 +1,9 @@
-import { getAllRecipesSlugs, getRecipeData } from "../../services/recipes";
-import { Recipe } from "../../components";
+import React from 'react';
 
-const type = "segundos";
+import { getAllRecipesSlugs, getRecipeData } from '../../services/recipes';
+import { Recipe } from '../../components';
+
+const type = 'segundos';
 
 export default function RecipePage({ recipeData }) {
   return <Recipe data={recipeData} />;
@@ -11,7 +13,7 @@ export async function getStaticPaths() {
   const paths = getAllRecipesSlugs(type);
   return {
     paths,
-    fallback: false,
+    fallback: false
   };
 }
 
@@ -19,7 +21,7 @@ export async function getStaticProps({ params }) {
   const recipeData = await getRecipeData(type, params.slug);
   return {
     props: {
-      recipeData,
-    },
+      recipeData
+    }
   };
 }
