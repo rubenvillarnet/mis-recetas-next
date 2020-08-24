@@ -2,7 +2,11 @@ import React from 'react';
 
 import Head from 'next/head';
 import Link from 'next/link';
+import styled from 'styled-components';
 
+const StyledTitle = styled.h1`
+  font-size: 2rem;
+`;
 export default function Home() {
   return (
     <div>
@@ -10,7 +14,7 @@ export default function Home() {
         <title>Mis recetas</title>
       </Head>
 
-      <h1>Mis recetas</h1>
+      <StyledTitle>Mis recetas</StyledTitle>
       <Link href='/primeros'>
         <a>Primeros</a>
       </Link>
