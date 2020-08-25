@@ -1,3 +1,4 @@
-import Recipe from "./Recipe/Recipe";
+import Recipe from './Recipe/Recipe';
+import Container from './Container/Container';
 
-export { Recipe };
+export { Recipe, Container };

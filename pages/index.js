@@ -1,32 +1,40 @@
 import React from 'react';
-
 import Head from 'next/head';
 import Link from 'next/link';
-import styled from 'styled-components';
 
-const StyledTitle = styled.h1`
-  font-size: 2rem;
-`;
+import StyledIndex from '../styles/pages-styles/index';
+import { Container } from '../components';
+
 export default function Home() {
   return (
-    <div>
+    <StyledIndex>
       <Head>
         <title>Mis recetas</title>
       </Head>
-
-      <StyledTitle>Mis recetas</StyledTitle>
-      <Link href='/primeros'>
-        <a>Primeros</a>
-      </Link>
-      <Link href='/segundos'>
-        <a>Segundos</a>
-      </Link>
-      <Link href='/postres'>
-        <a>Postres</a>
-      </Link>
-      <Link href='/salsas'>
-        <a>Salsas</a>
-      </Link>
-    </div>
+      <header>
+        <Container>
+          <h1>Mis recetas</h1>
+        </Container>
+      </header>
+      <main>
+        <Container>
+          <p>Estas son las recetas que hemos ido recopilando con los años.</p>
+          <nav>
+            <Link href='/primeros'>
+              <a>Primeros platos</a>
+            </Link>
+            <Link href='/segundos'>
+              <a>Segundos platos</a>
+            </Link>
+            <Link href='/postres'>
+              <a>Postres</a>
+            </Link>
+            <Link href='/salsas'>
+              <a>Salsas</a>
+            </Link>
+          </nav>
+        </Container>
+      </main>
+    </StyledIndex>
   );
 }
