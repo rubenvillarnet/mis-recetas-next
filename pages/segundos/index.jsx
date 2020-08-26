@@ -1,24 +1,20 @@
 import React from 'react';
-import Link from 'next/link';
 
+import { TopNav, Container, RecipeList } from '../../components';
 import { getAllRecipes } from '../../services/recipes';
 
 const type = 'segundos';
 
 export default function index({ allRecipes }) {
   return (
-    <div>
-      <h1>{type}</h1>
-      <ul>
-        {allRecipes.map((recipe) => (
-          <li key={recipe.slug}>
-            <Link href={`/${type}/[slug]`} as={`/${type}/${recipe.slug}`}>
-              <a>{recipe.title}</a>
-            </Link>
-          </li>
-        ))}
-      </ul>
-    </div>
+    <>
+      <TopNav title='Segundos platos' current={2} />
+      <main>
+        <Container>
+          <RecipeList recipes={allRecipes} type={type} />
+        </Container>
+      </main>
+    </>
   );
 }
 

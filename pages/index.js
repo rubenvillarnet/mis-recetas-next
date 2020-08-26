@@ -9,11 +9,11 @@ export default function Home() {
   return (
     <StyledIndex>
       <Head>
-        <title>Mis recetas</title>
+        <title>En mi casa se cocina así</title>
       </Head>
       <header>
         <Container>
-          <h1>Mis recetas</h1>
+          <h1>En mi casa se cocina así</h1>
         </Container>
       </header>
       <main>
