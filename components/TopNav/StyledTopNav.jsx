@@ -37,9 +37,17 @@ const StyledTopNav = styled.header`
       margin-right: 2.5rem;
       font-size: 1.25rem;
       a {
-        color: ${({ theme }) => theme.colors.dark};
         &.active {
-          text-decoration: underline;
+          color: ${({ theme }) => theme.colors.white};
+          background-color: ${({ theme }) => theme.colors.dark};
+          display: inline-block;
+          padding: 0.5rem 1.5rem;
+          border-radius: 2rem;
+          transition: all 0.5s;
+          &:hover {
+            background-color: ${({ theme }) => theme.colors.fadedDark};
+            color: ${({ theme }) => theme.colors.dark};
+          }
         }
       }
     }
@@ -95,6 +103,14 @@ const StyledTopNav = styled.header`
           margin-bottom: 1rem;
           a {
             color: ${({ theme }) => theme.colors.white};
+            &.active {
+              color: ${({ theme }) => theme.colors.dark};
+              background-color: ${({ theme }) => theme.colors.white};
+              &:hover {
+                background-color: ${({ theme }) => theme.colors.dark};
+                color: ${({ theme }) => theme.colors.white};
+              }
+            }
           }
         }
       }
