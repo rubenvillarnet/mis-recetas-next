@@ -1,12 +1,19 @@
 import React from 'react';
 
 import { getAllRecipesSlugs, getRecipeData } from '../../services/recipes';
-import { Recipe } from '../../components';
+import { Recipe, TopNav, Container } from '../../components';
 
 const type = 'postres';
 
 export default function RecipePage({ recipeData }) {
-  return <Recipe data={recipeData} />;
+  return (
+    <>
+      <TopNav title='Postres' current={3} />
+      <Container>
+        <Recipe data={recipeData} />
+      </Container>
+    </>
+  );
 }
 
 export async function getStaticPaths() {
