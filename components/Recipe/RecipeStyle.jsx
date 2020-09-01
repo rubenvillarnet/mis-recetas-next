@@ -8,7 +8,7 @@ const StyledRecipe = styled.main`
   }
   .recipe-content {
     display: flex;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     h3 {
       font-size: ${({ theme }) => theme.fonts.m};
     }
@@ -20,6 +20,12 @@ const StyledRecipe = styled.main`
       padding-left: 1.5rem;
       border-left: 4px solid ${({ theme }) => theme.colors.fadedDark};
       flex: 1;
+      span {
+        font-weight: 300;
+        display: block;
+        margin-left: -0.5rem;
+        margin-bottom: 0.5rem;
+      }
       li {
         margin-bottom: 0.25rem;
         position: relative;

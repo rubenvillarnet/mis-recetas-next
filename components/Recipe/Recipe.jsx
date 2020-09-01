@@ -4,7 +4,7 @@ import StyledRecipe from './RecipeStyle';
 import Container from '../Container/Container';
 
 export default function Recipe({ data }) {
-  const { title, ingredients, steps, footnote, image } = data;
+  const { title, ingredients, ingredientsLabel, steps, footnote, image } = data;
   return (
     <StyledRecipe>
       <Container>
@@ -13,6 +13,7 @@ export default function Recipe({ data }) {
           <div className='ingredients'>
             <h3>Ingredientes</h3>
             <ul>
+              {ingredientsLabel && <span>({ingredientsLabel})</span>}
               {ingredients.map((ingredient) => (
                 <li key={ingredient}>{ingredient}</li>
               ))}
