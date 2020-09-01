@@ -5,6 +5,7 @@ const theme = {
     fadedDark: 'rgba(0, 0, 0, 0.12)'
   },
   fonts: {
+    s: '1rem',
     m: '1.5rem',
     l: '2rem',
     xl: '3.5rem'

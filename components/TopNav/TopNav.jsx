@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Link from 'next/link';
 import classNames from 'classnames';
+import { Squash as Hamburger } from 'hamburger-react';
 
 import StyledTopNav from './StyledTopNav';
 import Container from '../Container/Container';
@@ -28,17 +29,23 @@ export default function TopNav({ title, current }) {
       url: '/salsas'
     }
   ];
+  const [isOpen, setOpen] = useState(false);
 
   return (
     <StyledTopNav>
       <div className='top-nav'>
         <Container>
-          <p>En mi casa se cocina así</p>
-          <h1>{title}</h1>
+          <div className='top-nav-content'>
+            <div>
+              <p>En mi casa se cocina así</p>
+              <h1>{title}</h1>
+            </div>
+            <Hamburger toggled={isOpen} toggle={setOpen} />
+          </div>
         </Container>
       </div>
       <Container>
-        <nav>
+        <nav className={classNames({ open: isOpen })}>
           <ul>
             {navLinks.map((link, idx) => (
               <li key={link.url}>
