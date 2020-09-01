@@ -1,17 +1,15 @@
 import React from 'react';
 
 import { getAllRecipesSlugs, getRecipeData } from '../../services/recipes';
-import { Recipe, TopNav, Container } from '../../components';
+import { Recipe, TopNav } from '../../components';
 
 const type = 'segundos';
 
 export default function RecipePage({ recipeData }) {
   return (
     <>
-      <TopNav title='Segundos' current={2} />
-      <Container>
-        <Recipe data={recipeData} />
-      </Container>
+      <TopNav title='Segundos platos' current={2} />
+      <Recipe data={recipeData} />
     </>
   );
 }

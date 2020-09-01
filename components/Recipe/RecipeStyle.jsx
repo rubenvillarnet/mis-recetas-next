@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 const StyledRecipe = styled.main`
   margin-top: 2rem;
-  margin-bottom: 4rem;
   h1 {
     border-bottom: 1px solid ${({ theme }) => theme.colors.fadedDark};
     margin-bottom: 1rem;
@@ -46,17 +45,28 @@ const StyledRecipe = styled.main`
     box-shadow: 0px 8px 11px -6px ${({ theme }) => theme.colors.fadedDark};
     margin-bottom: 1rem;
   }
+
   .img-container {
-    &:focus {
-      outline: none;
+    position: relative;
+    &:after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background: linear-gradient(
+        0deg,
+        rgba(255, 255, 255, 0) 82%,
+        rgba(255, 255, 255, 1) 100%
+      );
     }
     img {
       max-width: 100%;
-      cursor: pointer;
-      border-radius: 0.5rem;
-      box-shadow: 0px 8px 11px -6px ${({ theme }) => theme.colors.fadedDark};
+      display: block;
     }
   }
+
   @media screen and (max-width: 60rem) {
     .recipe-content {
       flex-direction: column;

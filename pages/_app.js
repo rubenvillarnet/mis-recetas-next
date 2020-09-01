@@ -1,7 +1,6 @@
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 
-import 'react-image-lightbox/style.css';
 import GlobalStyle from '../styles/GlobalStyle';
 import theme from '../styles/theme';
 

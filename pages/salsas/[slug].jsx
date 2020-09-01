@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { getAllRecipesSlugs, getRecipeData } from '../../services/recipes';
-import { Recipe, TopNav, Container } from '../../components';
+import { Recipe, TopNav } from '../../components';
 
 const type = 'salsas';
 
@@ -9,9 +9,7 @@ export default function RecipePage({ recipeData }) {
   return (
     <>
       <TopNav title='Salsas' current={4} />
-      <Container>
-        <Recipe data={recipeData} />
-      </Container>
+      <Recipe data={recipeData} />
     </>
   );
 }
