@@ -40,6 +40,27 @@ const StyledIndex = styled.div`
       }
     }
   }
+  @media screen and (max-width: 75rem) {
+    header {
+      min-height: 30vh;
+      h1 {
+        font-size: 3rem;
+        text-align: center;
+      }
+    }
+    main {
+      font-size: ${({ theme }) => theme.fonts.s};
+      text-align: center;
+      nav {
+        flex-direction: column;
+        align-items: center;
+        a {
+          font-size: ${({ theme }) => theme.fonts.m};
+          margin-bottom: 0.5rem;
+        }
+      }
+    }
+  }
 `;
 
 export default StyledIndex;
