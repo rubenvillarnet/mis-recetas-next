@@ -8,7 +8,7 @@ const type = 'salsas';
 export default function RecipePage({ recipeData }) {
   return (
     <>
-      <TopNav title='Salsas' current={4} />
+      <TopNav title='Salsas' current={4} isSubpage />
       <Recipe data={recipeData} />
     </>
   );

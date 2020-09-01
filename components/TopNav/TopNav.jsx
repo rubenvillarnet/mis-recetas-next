@@ -6,7 +6,7 @@ import { Squash as Hamburger } from 'hamburger-react';
 import StyledTopNav from './StyledTopNav';
 import Container from '../Container/Container';
 
-export default function TopNav({ title, current }) {
+export default function TopNav({ title, current, isSubpage }) {
   const navLinks = [
     {
       name: 'Inicio',
@@ -38,7 +38,15 @@ export default function TopNav({ title, current }) {
           <div className='top-nav-content'>
             <div>
               <p>En mi casa se cocina así</p>
-              <h1>{title}</h1>
+              {isSubpage ? (
+                <Link href={navLinks[current].url}>
+                  <a>
+                    <h1>{title}</h1>
+                  </a>
+                </Link>
+              ) : (
+                <h1>{title}</h1>
+              )}
             </div>
             <Hamburger toggled={isOpen} toggle={setOpen} />
           </div>

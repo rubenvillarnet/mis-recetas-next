@@ -49,7 +49,7 @@ const StyledRecipe = styled.main`
     padding: 1rem;
     border-radius: 0.5rem;
     box-shadow: 0px 8px 11px -6px ${({ theme }) => theme.colors.fadedDark};
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
   }
 
   .img-container {

@@ -8,7 +8,7 @@ const type = 'primeros';
 export default function RecipePage({ recipeData }) {
   return (
     <>
-      <TopNav title='Primeros platos' current={1} />
+      <TopNav title='Primeros platos' current={1} isSubpage />
       <Recipe data={recipeData} />
     </>
   );
