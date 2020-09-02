@@ -39,8 +39,6 @@ const StyledRecipeList = styled.ul`
           transform: translateY(-50%);
         }
       }
-      a {
-      }
     }
   }
 `;

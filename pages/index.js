@@ -1,5 +1,4 @@
 import React from 'react';
-import Head from 'next/head';
 import Link from 'next/link';
 
 import StyledIndex from '../styles/pages-styles/index';
@@ -8,9 +7,6 @@ import { Container } from '../components';
 export default function Home() {
   return (
     <StyledIndex>
-      <Head>
-        <title>En mi casa se cocina así</title>
-      </Head>
       <header>
         <Container>
           <h1>En mi casa se cocina así</h1>
