@@ -8,7 +8,7 @@ const type = 'postres';
 export default function index({ allRecipes }) {
   return (
     <>
-      <TopNav title='Segundos platos' current={3} />
+      <TopNav title='Postres' current={3} />
       <main>
         <Container>
           <RecipeList recipes={allRecipes} type={type} />

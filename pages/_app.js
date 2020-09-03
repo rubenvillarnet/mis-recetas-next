@@ -41,6 +41,24 @@ function MyApp({ Component, pageProps }) {
           content='/images/icons/browserconfig.xml'
         />
         <meta name='theme-color' content='#ffffff' />
+        <meta
+          name='Description'
+          content='Estas son las recetas que hemos ido recopilando con los años.'
+        />
+        <meta property='og:type' content='article' />
+
+        <meta property='og:title' content='En mi casa se cocina así' />
+
+        <meta
+          property='og:description'
+          content='Estas son las recetas que hemos ido recopilando con los años.'
+        />
+
+        <meta property='og:image' content='/images/og_image.jpg' />
+
+        <meta property='og:url' content='http://mis-recetas.rubenvillar.net/' />
+
+        <meta property='og:site_name' content='Mis recetas' />
       </Head>
       <Component {...pageProps} />
     </ThemeProvider>

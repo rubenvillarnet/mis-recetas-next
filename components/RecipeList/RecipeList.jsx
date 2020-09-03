@@ -8,12 +8,13 @@ export default function RecipeList({ recipes, type }) {
   return (
     <StyledRecipeList>
       {recipes.map((recipe) => (
-        <Link href={`/${type}/[slug]`} as={`/${type}/${recipe.slug}`}>
+        <Link
+          key={recipe.slug}
+          href={`/${type}/[slug]`}
+          as={`/${type}/${recipe.slug}`}
+        >
           <a>
-            <li
-              key={recipe.slug}
-              className={classNames({ image: !!recipe.image })}
-            >
+            <li className={classNames({ image: !!recipe.image })}>
               {recipe.title}
             </li>
           </a>
