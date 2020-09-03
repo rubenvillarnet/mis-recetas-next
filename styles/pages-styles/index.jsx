@@ -39,6 +39,12 @@ const StyledIndex = styled.div`
         }
       }
     }
+    .recipes-count {
+      display: inline-block;
+      width: 2rem;
+      margin-right: 0.5rem;
+      color: ${({ theme }) => theme.colors.grey};
+    }
   }
   @media screen and (max-width: 75rem) {
     header {

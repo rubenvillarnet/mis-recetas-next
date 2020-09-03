@@ -2,6 +2,7 @@ const theme = {
   colors: {
     white: '#FFFFFF',
     dark: '#212529',
+    grey: '#666666',
     fadedDark: 'rgba(0, 0, 0, 0.12)'
   },
   fonts: {
