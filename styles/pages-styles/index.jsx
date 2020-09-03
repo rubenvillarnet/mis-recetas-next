@@ -26,6 +26,9 @@ const StyledIndex = styled.div`
     padding-top: 2.5rem;
     font-size: ${({ theme }) => theme.fonts.m};
     nav {
+      border-bottom: 2px solid ${({ theme }) => theme.colors.fadedDark};
+      padding-bottom: 1rem;
+      margin-bottom: 2rem;
       text-transform: uppercase;
       display: flex;
       justify-content: space-between;
@@ -44,6 +47,56 @@ const StyledIndex = styled.div`
       width: 2rem;
       margin-right: 0.5rem;
       color: ${({ theme }) => theme.colors.grey};
+    }
+    .search-container {
+      text-align: left;
+      max-width: 24rem;
+      margin: auto;
+      margin-bottom: 2rem;
+      h3 {
+        text-align: center;
+        margin-bottom: 1rem;
+        font-size: ${({ theme }) => theme.fonts.l};
+      }
+      .search-input {
+        display: flex;
+        position: relative;
+        margin-bottom: 1rem;
+        input {
+          border: none;
+          border-bottom: 1px solid ${({ theme }) => theme.colors.fadedDark};
+          padding-right: 2rem;
+          flex: 1;
+          &:focus {
+            outline: none;
+          }
+        }
+        img {
+          width: 1.25rem;
+          margin-right: 0.5rem;
+        }
+        .delete-icon {
+          cursor: pointer;
+          position: absolute;
+          right: 0;
+          bottom: 4px;
+          width: 1rem;
+        }
+      }
+      .search-results {
+        padding-left: 1rem;
+        p {
+          font-weight: 500;
+          font-size: ${({ theme }) => theme.fonts.m};
+          margin-bottom: 1rem;
+          padding-left: 1rem;
+        }
+        ul {
+          li {
+            margin-bottom: 1rem;
+          }
+        }
+      }
     }
   }
   @media screen and (max-width: 75rem) {
