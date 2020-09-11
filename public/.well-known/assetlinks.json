@@ -1,5 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target" : { "namespace": "android_app", "package_name": "net.rubenvillar.mis_recetas.twa",
-                   "sha256_cert_fingerprints": ["A5:EB:46:6B:28:0D:4F:AA:B5:6E:F0:96:8A:74:AF:6F:1E:3C:D2:72:7D:8B:E7:0B:68:89:49:83:9B:AC:72:FD"] }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.rubenvillar.mis_recetas.twa",
+      "sha256_cert_fingerprints": [
+        "CD:9A:38:C6:3E:FC:B0:7C:24:81:E0:7D:57:F3:0E:9E:81:34:24:0F:D0:70:A7:13:29:F7:9B:6E:D6:7B:E3:45"
+      ]
+    }
+  }
+]
