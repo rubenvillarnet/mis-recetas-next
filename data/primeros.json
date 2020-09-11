@@ -427,23 +427,25 @@
   {
     "title": "Puré de calabacín con bacón",
     "ingredients": [
-      "Patatas",
+      "500-600gr patatas (peso patata pelada)",
       "1 Cebolla",
       "2 ajos",
       "Quesitos",
-      "Calabacín",
+      "Calabacín de 400gr aprox",
       "Avecrem o sal",
-      "Bacon o jamón serrano"
+      "2 vasos y medio de agua (el calabacín suelta mucho agua)",
+      "Bacon o jamón serrano (opcional)"
     ],
     "steps": [
-      "Poner a hervir agua (tener en cuenta que el calabacín suelta mucho agua). Lavar el calabacín y quitar un poco de piel (lo feo). Se parte en trozos cascados.",
+      "Lavar el calabacín y quitar un poco de piel (lo feo). Se parte en trozos cascados.",
       "Se pelan las patatas y se parten igual. Se limpia también la cebolla y los ajos y se añaden.",
-      "Se cuecen las patatas, calabacín, cebolla, ajos y avecrem, y cuando está cocido, se corrige de agua y sal.",
-      "Se pasa la batidora, pero primero se quita caldo si sobra (se puede aprovechar para comer una sopa riquísima)",
+      "Se ponen en la olla express todos los ingredientes (patatas, calabacín, cebolla, ajos y avecrem), y se deja 15 minutos con presión. Al abrir se corrige de agua y sal.",
+      "Se quita caldo si sobra (se puede aprovechar para comer una sopa riquísima), depende de lo espeso o ligero que nos guste el puré. Se pasa la batidora",
       "En el momento que se vaya a comer, se añaden los quesitos y se pasa la batidora otra vez.",
-      "Se fríe bacón en tiritas finas, y se churrusca bien.",
+      "Se fríe bacón en tiritas finas, y se churrusca bien. (opcional)",
       "Se sirve el puré en los platos y luego en cada uno se echa bacón y algo de aceitillo."
-    ]
+    ],
+    "ingredientsLabel": "Salen 4 raciones de puré y 2 de sopa"
   },
   {
     "title": "Puré de calabaza",
