@@ -141,7 +141,8 @@
       "Mientras picamos el pimiento verde, y se añade.",
       "Cuando está todo bien pochado se añade la morcilla deshecha, y se mezcla bien. ¡¡NO AÑADIR SAL!!",
       "Cuando enfríe se coloca en el hojaldre y se hornea 30 minutos a 180º - 200º, con el horno previamente precalentado(seguir las indicaciones del paquete de hojaldre)"
-    ]
+    ],
+    "image": "hojaldre-morcilla.jpg"
   },
   {
     "title": "Huevos a la cazuela con espinacas",
@@ -528,5 +529,23 @@
       "Añadir el doble de agua que de arroz, y dejar que hierva a fuego medio-bajo."
     ],
     "ingredientsLabel": "Salen 6 raciones"
+  },
+  {
+    "title": "huevos escalfados con guisantes",
+    "ingredients": [
+      "1 cebolla",
+      "2 ajos",
+      "2 choricillos",
+      "bote de guisantes (280gr escurrido/400gr neto)",
+      "un buen chorro de tomate orlando"
+    ],
+    "steps": [
+      "En una sartén grande, sofreir la cebolla y los ajos, picado. Cuando esté, quitar esceso de aceite.",
+      "Añadir el choricillo picado.",
+      "Añadir los guisantes y el tomate.",
+      "Dejar que se cocine 5 minutos.",
+      "Añadir un huevo por persona y poner la tapa, dejar que se haga 5 minutos. Debería cocinarse la clara y la yema quedar sin hacer."
+    ],
+    "image": "huevos-guisantes.jpg"
   }
 ]
