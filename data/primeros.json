@@ -536,6 +536,7 @@
       "1 cebolla",
       "2 ajos",
       "2 choricillos",
+      "2 huevos",
       "bote de guisantes (280gr escurrido/400gr neto)",
       "un buen chorro de tomate orlando"
     ],
@@ -546,6 +547,7 @@
       "Dejar que se cocine 5 minutos.",
       "Añadir un huevo por persona y poner la tapa, dejar que se haga 5 minutos. Debería cocinarse la clara y la yema quedar sin hacer."
     ],
-    "image": "huevos-guisantes.jpg"
+    "image": "huevos-guisantes.jpg",
+    "ingredientsLabel": "con estas medidas salen 2 raciones"
   }
 ]
