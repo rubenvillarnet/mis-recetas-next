@@ -246,7 +246,8 @@
       "Mojar el pan, y cubrirlo con un trapo limpio, para que todo ello se humedezca y reblandezca.",
       "Cuando esté suficientemente blandito, picar con una tijera.",
       "Picar el choricillo, sofreírlo en bastante aceite, y añadir el pan. Remover constantemente mientras se cocinan (se pegan fácilmente). Añadir la sal a mitad del proceso."
-    ]
+    ],
+    "image": "migas-chorizo.jpg"
   },
   {
     "title": "Ñoquis con salsa Roquefort",
@@ -295,7 +296,8 @@
     "title": "Pasta carbonara con Philadelphia",
     "ingredients": [
       "Pasta (macarrones o tallarines)",
-      "Bacón",
+      "Bacón en tiras",
+      "1 cebolla"
       "2 yemas de huevo",
       "125gr. Philadelphia",
       "Sal",
@@ -304,12 +306,14 @@
     "ingredientsLabel": "para dos",
     "steps": [
       "Cocemos la pasta.",
-      "Freímos el bacón en tiras finas y lo salpimentamos.",
+      "Pelamos la cebolla y la troceamos en cuadraditos. Se pocha.",
+      "Cuando la cebolla está, se quita aceite y ahí mismo se fríe el bacón en tiras finas y se salpimenta.",
       "Batimos las yemas de huevo, añadimos una generosa cantidad de philadelphia, mezclamos y salpimentamos.",
       "Escurrimos la pasta y la incorporamos al bacón.",
       "Finalmente incorporamos la salsa."
     ],
-    "image": "carbonara-philadelphia.jpg"
+    "image": "carbonara-philadelphia.jpg",
+    "footnote": "Sirve como plato único, con 80 gr. de pasta por persona"
   },
   {
     "title": "patatas a la Einstein",
