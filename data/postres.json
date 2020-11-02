@@ -228,18 +228,21 @@
     "title": "flan en olla express",
     "ingredients": [
       "1 huevo",
-      "1 taza mediana de leche",
-      "1 cucharada sopera de azúcar"
+      "130 ml de leche (un vaso de vino bien lleno)",
+      "1 cucharada sopera de azúcar",
+      "1 cucharada de cafe soluble (opcional), o 1 cucharada de cacao (opcional)"
     ],
     "steps": [
       "Tostar azúcar en el fondo del molde.",
       "Poner todos los ingredientes en un bol y batir con batidora, y pasarlo al molde.",
-      "Tapar el molde con papel de aluminio para que no entre agua.",
-      "Meter el molde en la olla y poner agua alrededor (al baño maría). La cantidad de agua: menos de la mitad del molde.",
-      "Cuando la válvula suba, bajar el fuego a la mitad, y dejar 15 minutos con la presión.",
-      "Pasado ese tiempo apagar el fuego y no abrir la olla hasta que baje la válvula del todo por sí misma."
+      "Tapar el molde con papel de aluminio para que no entre agua, y después poner la tapa bien cerrada.",
+      "Meter el molde en la olla y poner agua alrededor (al baño maría). La cantidad de agua: un poco menos de la mitad del molde.",
+      "Dejar 15 minutos con presión.",
+      "Pasado ese tiempo apagar el fuego y no abrir la olla hasta que baje la válvula del todo por sí misma.",
+      "Es preferible hacerlo de un día para otro, porque tarda mucho en enfriar."
     ],
-    "footnote": "6 de cada ingrediente es una buena proporción"
+    "image": "flan-olla.jpg",
+    "footnote": "En la foto, la versión del flan con café (lleva 3 medidas de cada)"
   },
   {
     "title": "Flanes de la Abuela Ernestina",
