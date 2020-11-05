@@ -263,7 +263,8 @@
       "Derretir el queso con la nata al microondas o en una cazuela aparte.",
       "Añadir la salsa sobre los ñoquis en cada plato."
     ],
-    "footnote": "Se puede preparar menos cantidad de ñoquis para hacer un segundo que combine bien con esta salsa: pollo a la plancha, solomillo, etc..."
+    "footnote": "Se puede preparar menos cantidad de ñoquis para hacer un segundo que combine bien con esta salsa: pollo a la plancha, solomillo, etc...",
+    "image": "gnoquis-roquefort.jpg"
   },
   {
     "title": "Paella de marisco",
@@ -511,7 +512,8 @@
       "cuando pase este tiempo es el momento de corregir de sal. Con el chorizo y el avecrem no suele hacer falta añadir más",
       "añadir un huevo batido, remover, y dejar tres minutos.",
       "se puede añadir también un huevo sin batir por persona, se deja cocinar 3 minutos"
-    ]
+    ],
+    "image": "sopas-ajo.jpg"
   },
   {
     "title": "Paella de carne y verduras",
@@ -534,7 +536,8 @@
       "Añadir el arroz, y darlo vueltas con el resto de ingredientes, que se mezclen bien los sabores.",
       "Añadir el doble de agua que de arroz, y dejar que hierva a fuego medio-bajo."
     ],
-    "ingredientsLabel": "Salen 6 raciones"
+    "ingredientsLabel": "Salen 6 raciones",
+    "image": "paella-carne-verduras.jpg"
   },
   {
     "title": "huevos escalfados con guisantes",

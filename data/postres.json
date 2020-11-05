@@ -55,6 +55,7 @@
       "Echar en un bol los ingredientes: leche, aceite, azúcar, harina con la levadura, y los huevos.",
       "Batir todo con batidora y hornear a 180º unos 30-40 minutos."
     ],
+    "image": "bizcocho-choco-1-2-3.jpg",
     "footnote": "Para hacerlo de chocolate, sustituir las 3 medidas de harina por 2,5 medidas de harina y una de cacao en polvo."
   },
   {
@@ -150,7 +151,8 @@
       "Colocarlas en la bandeja un poco separadas.",
       "Se hornean hasta que veamos que empiezan a abrirse, a resquebrajarse, momento en que se sacan (unos 10 minutos).",
       "Aunque parezca que están poco hechas, al enfriarse quedan genial."
-    ]
+    ],
+    "image": "craqueladas.jpg"
   },
   {
     "title": "Crema pastelera",
@@ -328,7 +330,8 @@
       "Añadir el azúcar y la sal poco a poco, según se bate.",
       "Para hornear, el merengue necesita mucho tiempo a temperatura baja para que se hagan por dentro.",
       "Antes de sacarlo del horno se puede subir la temperatura para que tuesten por fuera: A 150º alrededor de una hora (controlar, según el horno). Y el último minuto a 200º."
-    ]
+    ],
+    "image": "merengue.jpg"
   },
   {
     "title": "Pancakes de plátano y cacao",
@@ -533,7 +536,8 @@
       "En una fuente o bandeja honda (o en recipientes individuales, al gusto) se coloca una capa de crema, después una capa de bizcochos remojados en el café, otra de crema, otra de bizcochos y una última de crema.",
       "Si la fuente no es tan honda se puede hacer de crema – bizcochos – crema.",
       "Se deja en la nevera un mínimo de 6 horas. Lo mejor es hacerlo de un día a otro. Al servirlo, espolvorear por la superficie cacao en polvo."
-    ]
+    ],
+    "image": "tiramisu.jpg"
   },
   {
     "title": "Torrijas",
