@@ -447,5 +447,23 @@
       "Añadir tomate y pimiento verde picaditos, y dejar que se haga bien, a fuego medio bajo",
       "Si se necesita, añadir agua"
     ]
+  },
+  {
+    "title": "Huevo tonto",
+    "ingredients": [
+      "3 rebanadas de pan bimbo",
+      "2 huevos",
+      "ajo en polvo",
+      "perejil seco",
+      "sal"
+    ],
+    "steps": [
+      "Desmigar el pan bimbo",
+      "Cascar encima los dos huevos y añadir la sal, ajo y perejil. Envolver muy bien.",
+      "En el mismo plato, separar los huevos a freir. Con estas cantidades salen 4 pequeños o 2 grandes (o los que quieras, según cómo los hagas de grandes)",
+      "Freir en abundante aceite. Añadir a la sarten, esperar un minuto y dar la vuelta. Hacer un corte. Trar otro minuto dar la vuelta y hacer corte por el otro lado. Dejar que se cocine por ambos lados",
+      "Se suele añadir al cocido de garbanzos, pero también está muy buenos para acompañar alguna salsa que haya sobrado."
+    ],
+    "image": "huevos-tontos.jpg"
   }
 ]
