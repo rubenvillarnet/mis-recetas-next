@@ -32,7 +32,12 @@ export const allRecipes = {
     };
   })
 };
-export const getAllRecipes = (type) => allRecipes[type];
+export const getAllRecipes = (type) =>
+  allRecipes[type].sort((a, b) => {
+    return a.title.localeCompare(b.title, 'es', {
+      ignorePunctuation: true
+    });
+  });
 
 export const getAllRecipesSlugs = (type) => {
   const allRecipesSlugs = getAllRecipes(type).map((recipe) => {
