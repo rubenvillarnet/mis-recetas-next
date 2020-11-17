@@ -562,13 +562,13 @@
   {
     "title": "Cocido de garbanzos",
     "ingredients": [
-      "450 gr. de garbanzos",
-      "6 carrilladas de cerdo",
+      "500 gr. de garbanzos",
+      "4 o 6 carrilladas de cerdo",
       "2 choricillos frescos",
       "1 morcilla",
       "1 hueso crudo",
-      "un trocito de tocino",
-      "1 pastilla de avecrem",
+      "un trocito de tocino (opcional)",
+      "1 pastilla y media de avecrem",
       "6 huevos tontos (ver receta)"
     ],
     "steps": [
@@ -580,6 +580,7 @@
       "Se añaden los garbanzos escurridos, se cierra la olla y se tiene 20 minutos con presión.",
       "Abrir la olla y comprobar si los garbanzos y la carne están tiernos. Si no lo están,  se cierra la olla y se tiene otro rato más. Si sí que están tiernos, se añade la morcilla y el huevo tonto (solo con el calor residual, que no hierva)"
     ],
-    "ingredientsLabel": "Salen 6 raciones"
+    "ingredientsLabel": "Salen 6 raciones",
+    "image": "cocido-garbanzos.jpg"
   }
 ]
