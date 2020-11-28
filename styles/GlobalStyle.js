@@ -62,6 +62,10 @@ const GlobalStyle = createGlobalStyle`
 
   html{
     font-family: "Quicksand", sans-serif;
+    font-size: 1rem;
+    @media (max-width: 48rem ) {
+      font-size: 1.3rem;
+    }
   }
 
   ul {
