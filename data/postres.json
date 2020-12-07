@@ -182,7 +182,7 @@
       "1 vaso de leche no muy lleno",
       "1 chorro majo de aceite de oliva",
       "1 poco de sal",
-      "Azúcar"
+      "1 cucharada de azúcar (o al gusto)"
     ],
     "steps": [
       "Batir todo con batidora. Dejar reposar un rato.",
@@ -190,7 +190,8 @@
       "Echar el preparado con un cacito y extenderlo en la sartén. Dorar por los dos lados.",
       "Rellenar al gusto: chocolate, nocilla, sirope, york – queso, etc..."
     ],
-    "image": "crepes.jpeg"
+    "image": "crepes.jpeg",
+    "footnote": "Con una cucharada de azúcar es suficiente para crepes dulces, el relleno acaba de endulzarlo. Para saladas se puede omitir el azucar."
   },
   {
     "title": "Crepes de cacao",
