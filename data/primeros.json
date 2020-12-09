@@ -583,5 +583,23 @@
     ],
     "ingredientsLabel": "Salen 6 raciones",
     "image": "cocido-garbanzos.jpg"
+  },
+  {
+    "title": "Berza con patatas",
+    "ingredients": [
+      "500 gr. de berza",
+      "400 gr. de patata",
+      "8 ajos",
+      "aceite",
+      "sal"
+    ],
+    "steps": [
+      "Limpiar y trocear la berza. Las patatas se pelan y se cortan en cuadrados grandes.",
+      "Se pone la olla con el cestillo para cocinar al vapor, cubriendo la base de la olla de agua.",
+      "En el cestillo se echa primero la patata, y después la berza. Se echa la sal por encima, y un chorrito de aceite",
+      "Se cierra la olla, y se tiene 15 minutos con presión",
+      "Cuando se vaya a servir, se laminan los ajos y se doran un poquito, se echa un poco de aceite con los ajos sobre cada plato."
+    ],
+    "ingredientsLabel": "Salen 4 raciones"
   }
 ]
