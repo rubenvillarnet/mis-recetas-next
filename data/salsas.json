@@ -44,5 +44,24 @@
             "Se ponen todos los botes en una cazuela con agua, que estén cubiertos por completo.",
             "Desde que rompe a hervir se tiene 20 minutos más hirviendo."
         ]
+    },
+    {
+        "title": "Sobrasada vegana",
+        "ingredients": [
+            "150 gr. de tomates secos",
+            "60 gr. de anacardos crudos (o almendras, o piñones)",
+            "1 diente de ajo",
+            "2 cucharadas de aceite de oliva",
+            "1 cucharada y media de pimentón dulce",
+            "1 cucharadita de albahaca seca",
+            "media cucharada de comino molido",
+            "una pizca de sal",
+            "entre 4 y 8 cucharadas del agua de la cocción de los tomates"
+        ],
+        "steps": [
+            "Hervir los tomates durante 20 minutos para hidratarlos, escurrirlos y dejar que enfríen. Reservar el agua de la cocción",
+            "Poner todo en la batidora y batir hasta que esté todo bien integrado",
+            "Rectificar con el agua de la cocción de los tomates, para que quede con la espesura deseada"
+        ]
     }
 ]
