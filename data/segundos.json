@@ -428,6 +428,30 @@
     "image": "tortilla-patatas.jpg"
   },
   {
+    "title": "salmón al papillote",
+    "ingredients": [
+      "salmón (u otro pesacado",
+      "berenjena",
+      "zanahoria",
+      "tomate",
+      "sal",
+      "pimienta negra",
+      "vino blanco"
+    ],
+    "image": "salmon-al-papillote.jpg",
+    "steps": [
+      "Limpiar todas las verduras",
+      "La zanahoria hacerla en finas láminas (con el pelador)",
+      "La berenjena y el tomate hacerlos en rodajas",
+      "Meter al microondas un minuto y medio la verdura",
+      "Colocar sobre papel albal las verduras, salpimentar, y añadir un par de cucharadas de vino blanco",
+      "Colocar el salmón sobre las verduras, salpimentar y añadir otras dos cucharadas de vino blanco",
+      "Cerrar el papel albal muy bien, hacer un paquete bien cerrado por ración",
+      "Hornear 15 minutos a 220º"
+    ],
+    "footnote": "Se pueden añadir más verduras, como por ejemplo pimiento o calabacín. La patata no le va bien a esta receta."
+  },
+  {
     "title": "Pollo guisado de mamá",
     "ingredients": [
       "aceite",
