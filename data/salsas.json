@@ -63,5 +63,18 @@
             "Poner todo en la batidora y batir hasta que esté todo bien integrado",
             "Rectificar con el agua de la cocción de los tomates, para que quede con la espesura deseada"
         ]
+    },
+    {
+        "title": "Caramelo líquido",
+        "ingredients": [
+            "65gr. de azucar",
+            "cucharada y media de agua",
+            "un poco de zumo de limón"
+        ],
+        "steps": [
+            "Poner todo a fuego medio, en una sartén o cazo",
+            "Dejar que se haga sin mover"
+        ],
+        "footnote": "nos puede servir como base para un flan o pudin, o cualquier otra receta dulce"
     }
 ]
