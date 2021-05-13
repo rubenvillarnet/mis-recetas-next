@@ -582,5 +582,27 @@
       "Cuando se vaya a servir, se laminan los ajos y se doran un poquito, se echa un poco de aceite con los ajos sobre cada plato."
     ],
     "ingredientsLabel": "Salen 4 raciones"
+  },
+  {
+    "title": "Parrillada de verduras",
+    "ingredients": [
+      "Tomate",
+      "Berenjena",
+      "Calabacín",
+      "Zanahoria",
+      "Patata",
+      "Cebolla",
+      "Sal",
+      "Aceite",
+      "Pimentón dulce"
+    ],
+    "steps": [
+      "Limpiar y trocear todas las verduras.",
+      "Precalentar el horno a 220º",
+      "En un bol, poner las verduras y añadir sal y aceite.",
+      "Hornear primero el tomate, la berenjena y el calabacín, durante 5 minutos.",
+      "Pasados esos 5 minutos añadir el resto de verduras, durante 25 minutos. A la zanahoria, patata y cebolla les va bien pimenton dulce"
+      
+    ]
   }
 ]
