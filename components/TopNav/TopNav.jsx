@@ -27,6 +27,10 @@ export default function TopNav({ title, current, isSubpage }) {
     {
       name: 'Salsas',
       url: '/salsas'
+    },
+    {
+      name: 'BLW',
+      url: '/blw'
     }
   ];
   const [isOpen, setOpen] = useState(false);

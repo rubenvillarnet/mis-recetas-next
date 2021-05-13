@@ -5,6 +5,7 @@ import primeros from '../data/primeros.json';
 import segundos from '../data/segundos.json';
 import postres from '../data/postres.json';
 import salsas from '../data/salsas.json';
+import blw from '../data/blw.json';
 
 export const allRecipes = {
   primeros: primeros.map((recipe) => {
@@ -26,6 +27,12 @@ export const allRecipes = {
     };
   }),
   salsas: salsas.map((recipe) => {
+    return {
+      ...recipe,
+      slug: slugify(recipe.title)
+    };
+  }),
+  blw: blw.map((recipe) => {
     return {
       ...recipe,
       slug: slugify(recipe.title)

@@ -92,6 +92,9 @@ export default function Home({ recipes }) {
             <Link href='/salsas'>
               <a>{recipesCount(recipes.salsas.length)}Salsas</a>
             </Link>
+            <Link href='/blw'>
+              <a>{recipesCount(recipes.blw.length)}BLW</a>
+            </Link>
           </nav>
           <div className='search-container'>
             <h3>Busca recetas</h3>
