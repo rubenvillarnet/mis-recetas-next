@@ -12,8 +12,8 @@
         "Añadir perejil y remover",
         "dejar reposar media hora. Si crees que no tiene demasiada humedad y no podrás hacer bolas después, puedes dejarlo a reposar sobre un colador, para que pierda algo de líquido.",
         "Precalienta el horno a 170º.",
-        "Haz bolas y cháfalas y poco. A mí me salieron 8 con esta cantidad.",
-        "Hornéalas hasta que estén un poco doradas por ambos lados. Yo las tuve por el primer lado 25 minutos, y por el segundo 10"
+        "Haz bolas y cháfalas y poco. A nosotros nos salieron 8 con esta cantidad.",
+        "Hornéalas hasta que estén un poco doradas por ambos lados. Nosotros las tuvimos por el primer lado 25 minutos, y por el segundo 10"
       ],
       "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Esta receta es una adaptación del libro 'Sin dientes y a bocados' de Juan Llorca"
     },
@@ -25,11 +25,41 @@
         ],
         "steps": [
           "Cocinar la verdura al vapor, yo siempre tengo un taper preparado con verduras al vapor, y cuando quiero hacer las hamburguesitas, simplemente cojo un poco de esta verdura",
-          "Con 200gr de carne picada hago 8 hamburguesitas (a 25gr. cada una), y lo que hecho de verduras son 100gr.",
+          "Con 200gr de carne picada salen 8 hamburguesitas (a 25gr. cada una), y añade 100gr. de verduras.",
           "Lo paso por la picadora, pero si no tienes, lo puedes mezclar bien con un tenedor.",
           "Haz bolitas y cháfalas para que tengan forma de hamburguesa.",
           "Pásalas por la plancha hasta que la carne esté bien cocinada, y listo"
         ],
         "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Esta receta es una buena manera de ofrecer carne, y de introducir verduras de una manera más elaborada."
+      },
+      {
+        "title": "Bolitas de arroz",
+        "ingredients": [
+          "Arroz"
+        ],
+        "steps": [
+          "Cuece el arroz hasta que esté un poco pasado.",
+          "Enfríalo bajo el grifo",
+          "Para hacer las bolitas, igual que el sushi: mójate un poco las manos antes de hacer cada bolita, coge una pequeña cantidad y presiona hasta que formes una bolita.",
+          "Puedes añadir algún otro ingrediente (carne, pescado, verdura) en medio de la bolita, o picado y revuelto con el arroz"
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Se pueden congelar: ponlas sobre un plato, separadas unas de otras; cuando estén cogeladas las puedes pasar a una bolsita hermética."
+      },
+      {
+        "title": "Gachas de avena",
+        "ingredients": [
+          "2 medidas de agua (o una de agua y una de bebida vegetal)",
+          "3/4 de medida de copos finos de avena",
+          "Rama de canela",
+          "1 trocito de corteza de limón"
+        ],
+        "steps": [
+          "Pon en la cazuela el agua junto con la canela y el limón a fuego fuerte.",
+          "Cuando empiece a hervir, retira la canela y el limón y añade los copos de avena. Cuando vuelva a hervir baja el fuego a la mitad.",
+          "Tenlo 5 minutos, y remueve de vez en cuando.",
+          "Puedes ofrecer así, o con trocitos de furta.",
+          "Si se lo das el día siguiente, y se ha quedado seco, puedes hidratar con un poco de leche (materna o fórmula), bebida vegetal o agua. O puedes ofrecerlo sin hidratar, de tal manera que estará bastante sólido y el peque podrá comerlo solo."    
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Las gachas (sin mezclar con fruta) pueden durar hasta 4 días en la nevera."
       }
 ]
