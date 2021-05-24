@@ -491,5 +491,23 @@
       "Se suele añadir al cocido de garbanzos, pero también está muy buenos para acompañar alguna salsa que haya sobrado."
     ],
     "image": "huevos-tontos.jpg"
+  },
+  {
+    "title": "Lubina al horno",
+    "ingredients": [
+      "1 lubina limpia",
+      "Patatas",
+      "Cebolla",
+      "Tomate",
+      "Sal",
+      "Aceite",
+      "Pimienta negra"
+    ],
+    "steps": [
+      "Precalentar el horno a 180º",
+      "Limpiar y trocear las verduras (patatas panadera, lo demás en trozos grandes), colocar en la bandeja, echar aceite y sal, e introducir en el horno 20 minutos",
+      "Cuando pasen los 20 minutos, colocar encima de las patatas la lubina, limpia, y echar sal, pimienta negra y aceite, y meter al horno otros 20 minutos."
+    ],
+    "image": "lubina-horno.jpg"
   }
 ]
