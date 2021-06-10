@@ -583,5 +583,22 @@
       "Para montar la tarta, poner una capa de bizcochos bien empapados en zumo, una del chocolate, y repetir. Con dos capas es suficiente, pero se pueden poner tres, más no.",
       "Refrigerar al menos 4 horas."
     ]
+  },
+  {
+    "title": "Puding de café al microondas",
+    "ingredients": [
+      "60 gr. de pan duro",
+      "1 vaso de agua de café recién hecho",
+      "55 gr. de azucar",
+      "250 ml de leche"
+    ],
+    "steps": [
+      "Trocear el pan y colocar en un bol",
+      "Echar por encima el café caliente, dejar que el pan empape, y machacar y mezclar bien. Añadir a un molde para microondas",
+      "Añadir al bol (que ahora estará 'sucio') los dos huevos, la leche y el azucar. Batir bien y añadir al molde en el que ya tenemos el pan.",
+      "Mezclar con un tenedor y meter al microodas sin tapar",
+      "Lo tendremos en el microondas unos 9 minutos, en tramos de 5 minutos, 2 minutos, y luego de minuto en minuto hasta que esté cuajado."
+    ],
+    "footnote":"en vez de pan duro se puede emplear bollería que se nos haya quedado dura. Y como eso ya lleva azucar, utilizaremos un poco menos azucar en nuestro pudin"
   }
 ]
