@@ -86,5 +86,26 @@
           "Hornea 15 minutos por un lado, a los 15 minutos da la vuelta a cada hamburguesa (en este paso, yo aprobeché para aplastar un poco cada hamburguesa con la pala, ya que ya habían perdido humedad y se podía hacer bien). Déjalas 10 minutos por el otro lado"
         ],
         "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Esta receta mejor a partir de los 12 meses (por la sal, y la mayonesa)"
+      },
+      {
+        "title": "Tostada francesa",
+        "ingredients": [
+          "1 plátano maduro",
+          "1 huevo",
+          "1/2 zanahoria (cruda y rallada o cocinada)",
+          "canela",
+          "1 rebanada de pan de molde (mejor integral)"
+        ],
+        "steps": [
+          "Machaca el plátano en un plato.",
+          "Añade el huevo y bátelo bien.",
+          "Añade la zanahoria, la puedes rallar. En mi caso, siempre tengo verduras hechas al vapor, y añado unos trocitos, y los aplasto con el tenedor.",
+          "Añade un poco de canela en polvo.",
+          "Pon una rebanada de pan de molde y deja que empape bien por ambos lados.",
+          "En una sarte con un poquito de aceite, pon un poco de la mezcla y justo encima el pan. Luego añade el resto de la mezcla en la parte superior del pan.",
+          "Pon una tapa, cocina a fuego bajo y deja que se haga bien el huevo por ambos lados."
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno.",
+        "image": "blw-tostada-francesa.jpg"
       }
 ]
