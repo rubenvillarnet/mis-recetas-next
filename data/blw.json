@@ -109,5 +109,53 @@
         ],
         "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno.",
         "image": "blw-tostada-francesa.jpg"
+      },
+      {
+        "title": "Pollo desmechado",
+        "ingredients": [
+          "1/2 pechuga de pollo",
+          "1 tomate",
+          "1 trozo de pimiento verde",
+          "1/2 cebolla"
+        ],
+        "steps": [
+          "Cuece la pechuga hasta que esté bien tierna.",
+          "Cuando esté, desméchala, es cecir, hazla hebras, con dos tenedores, lo más que puedas.",
+          "Pon en una cazuela las verduras troceadas, con un poquito de aceite, y deja que se pochen.",
+          "Cuando estén, añade el pollo, agua y si quieres, un poquito de avecrem o sal. Deja que se mezclen los sabores, y que quede muy tierno."
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno."
+      },
+      {
+        "title": "Ensalada de huevo y tomate",
+        "ingredients": [
+          "1 huevo cocido",
+          "1 tomate (crudo o cocinado)",
+          "1 triangulito de queso semicurado",
+          "guisantes (opcional)",
+          "aceite, vinagre y sazonador"
+        ],
+        "steps": [
+          "Partir todos los ingredientes en dados pequeños.",
+          "Echar muy poquito aceite, sal y sazonador (de ensaladas de Mercadona, apenas un poquito de polvo)",
+          "Mezclar bien y disfrutar"
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Asegúrate de que tu peque, por su edad, ya puede comer todos los ingredientes."
+      },
+      {
+        "title": "Alubias Blancas (o cualquier legumbre)",
+        "ingredients": [
+          "1 bote pequeño de alubias",
+          "1 tomate",
+          "1/2 cebolla",
+          "1 zanahoria"
+        ],
+        "steps": [
+          "Añadir a la cazuela el bote de alubias bien lavadas.",
+          "Añadir las verduras peladas, limpias y cortadas en daditos.",
+          "Añadir agua y si quieres, un poquito de sal o avecrem.",
+          "Deja que se cocine a fuego medio hasta que las verduras estén bien tiernas"
+        ],
+        "footnote":"¡ojo! introduce los ingredientes en la dieta de tu peque de uno en uno. Asegúrate de que tu peque, por su edad, ya puede comer todos los ingredientes."
       }
 ]
