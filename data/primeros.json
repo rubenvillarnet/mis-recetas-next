@@ -464,25 +464,25 @@
   {
     "title": "Puré de calabaza",
     "ingredients": [
-      "1⁄2 calabaza",
+      "1⁄2 calabaza, (500gr. +/-)",
       "1 cebolla mediana",
       "3 patatas (400gr. +/-)",
-      "1 o 2 zanahorias",
+      "1 o 2 zanahorias (100 gr. +/-)",
       "Quesitos",
       "Sal",
       "Bacon (opcional)"
     ],
     "steps": [
       "Limpiar, pelar y partir los 4 vegetales.",
-      "Poner en la olla 1 vaso y medio de agua y sal.",
-      "Abrir después de 20 minutos de cocción.",
-      "Corregir de caldo y pasar la batidora.",
+      "Poner en la olla los vegetales, sal y 1 vaso y medio de agua. Cerrar la olla y poner a fuego medio alto (7 de 10)",
+      "Parar el fuego después de 20 minutos de presión.",
+      "Corregir de caldo (posiblemente haya que quitar) y pasar la batidora.",
       "En el momento que se vaya a comer, se añaden los quesitos y se pasa la batidora otra vez."
     ],
     "footnote": "Opcional: freír bacón en tiras a la hora de comerlo, y añadirlo en el centro de cada plato."
   },
   {
-    "title": "sopa de verduras",
+    "title": "Sopa de verduras",
     "ingredients": [
       "Sopa juliana de Alimerka (350gr.) con zanahoria, repollo, berza, puerro y apio.",
       "2 pastillas de Avecrem",
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "title": "sopas de ajo",
+    "title": "Sopas de ajo",
     "ingredients": [
       "4 ajos",
       "1 choricillo fresco",
@@ -546,7 +546,7 @@
     "image": "paella-carne-verduras.jpg"
   },
   {
-    "title": "huevos escalfados con guisantes",
+    "title": "Huevos escalfados con guisantes",
     "ingredients": [
       "1 cebolla",
       "2 ajos",
