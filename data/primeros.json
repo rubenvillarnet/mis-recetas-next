@@ -604,5 +604,54 @@
       "Pasados esos 5 minutos añadir el resto de verduras, durante 25 minutos. A la zanahoria, patata y cebolla les va bien pimenton dulce"
       
     ]
+  },
+  {
+    "title": "Sopa o Consomé",
+    "ingredients": [
+      "Verduras como:",
+      "Nabo",
+      "Apio",
+      "Puerro",
+      "Chirivía",
+      "Zanahoria",
+      "Y otras verduras si tienes: judías verdes, lechuga...",
+      "Hueso crudo (¡crudo! de jamón no sirve)",
+      "Esqueleto de pollo",
+      "2 choricillos",
+      "2 pastillas de Avecrem",
+      "Agua"
+    ],
+    "steps": [
+      "Limpiar y trocear todas las verduras. Añadir a la olla.",
+      "Lavar el hueso y esqueleto y añadir a la olla.",
+      "Añadir el avecrem y agua hasta donde se pueda en la olla express (no te pases)",
+      "Tener 20 minutos con presión"      
+    ],
+    "footnote":"Si tienes paciencia después y sacas toda la carne del esqueleto del pollo, puedes hacer unas croquetas riquísimas"
+  },
+  {
+    "title": "Arroz con pollo",
+    "ingredients": [
+      "Media pechuga de pollo",
+      "1 taza de arroz",
+      "1/2 cebolla",
+      "1/4 de pimiento rojo",
+      "1/2 pimiento verde",
+      "1 tomate pequeño (rallado)",
+      "Sal",
+      "Pimienta negra",
+      "Pimentón dulce",
+      "2 tazas y media de caldo (de cocido o de pollo, por ejemplo)",
+      "perejil fresco picado"
+    ],
+    "steps": [
+      "Limpiar y trocear pequeño la cebolla y el pimiento rojo y verde",
+      "Sofreir las verduras con pizca de sal y de pimienta negra.",
+      "Cuando esté listo el sofrito, añadir el pollo cortado a dados, y sal (y cúrcuma, opcional).",  
+      "Cuando casi esté listo, añadir un poco de pimentón dulce y el tomate rallado. Dejar que dé un hervor un par de minutos.",
+      "Añadir una taza de arroz, y 2 tazas y media de caldo (viene a ser medio litro). Añadir también sal y perejil fresco.",
+      "Cocinar a fuego medio-bajo."
+
+    ]
   }
 ]
