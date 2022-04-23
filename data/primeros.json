@@ -653,5 +653,28 @@
       "Cocinar a fuego medio-bajo."
 
     ]
+  },
+  {
+    "title": "Puré de alubia blanca de bote",
+    "ingredients": [
+      "2 botes grandes de alubia blanca",
+      "2 choricillos frescos",
+      "2 dientes de ajo",
+      "1 cebolla",
+      "1 trozo de pimiento verde",
+      "2 zanahorias",
+      "Perejil (fresco o seco)",
+      "3 vasos de agua",
+      "Aceite",
+      "1 pastilla y media de Avecrem",
+      "Pimentón dulce (opcional)"
+    ],
+    "steps": [
+      "Deslavar la legumbre.",
+      "Ponerlas en la olla y añadir 3 vasos de agua.",
+      "Se añaden todos los ingredientes limpios y troceados: las zanahorias, la cebolla, los ajos, el perejil, el pimiento verde, el avecrem, y los choricillos, y chorrito de aceite.",
+      "Se cierra la olla. Se deja 20 minutos con presión.",
+      "Se puede arreglar con pimentón dulce, añadiendo un poco de aceite con pimentón en cada plato."
+    ]
   }
 ]

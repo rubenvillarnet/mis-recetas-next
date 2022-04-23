@@ -590,6 +590,7 @@
     "ingredients": [
       "60 gr. de pan duro",
       "1 vaso de agua de café recién hecho",
+      "2 huevos",
       "55 gr. de azucar",
       "250 ml de leche"
     ],
@@ -601,5 +602,22 @@
       "Lo tendremos en el microondas unos 9 minutos, en tramos de 5 minutos, 2 minutos, y luego de minuto en minuto hasta que esté cuajado."
     ],
     "footnote":"en vez de pan duro se puede emplear bollería que se nos haya quedado dura. Y como eso ya lleva azucar, utilizaremos un poco menos azucar en nuestro pudin"
+  },
+  {
+    "title": "Puding al microondas",
+    "ingredients": [
+      "1/4 de barra de pan duro",
+      "4 huevos",
+      "500 ml de leche",
+      "6 cucharadas soperas de azucar",
+      "80 gr. de azucar y dos cucharadas de agua para hacer el caramelo en la base"
+    ],
+    "steps": [
+      "Empezamos haciendo el caramelo en una cazuela: se echan los 80 gr. de azucar y dos cucharadas de agua y se pone el fuego a tope. No se toca ni se remueve ni nada. Solo se observa y cuando tenga el color que te guste, se echa a la fuente en la que haremos el puding, y se reparte por las paredes bien (con cuidado de no quemarse!)",
+      "Templar un poco la leche",
+      "Juntar todos los ingredientes: la leche tibia, 4 huevos y 6 cucharadas soperas de azucar, y darle con la batidora.",
+      "Añadir el pan troceado, esperar unos segundos a que ablande un poco y darle con la batidora",
+      "Colocar esta mezcla en el recipiente donde ya tenemos el caramelo, y llevar al microondas: 10-12 minutos a potencia máxima (ir controlando)"
+    ]
   }
 ]
