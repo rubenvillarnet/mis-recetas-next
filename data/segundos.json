@@ -509,5 +509,42 @@
       "Cuando pasen los 20 minutos, colocar encima de las patatas la lubina, limpia, y echar sal, pimienta negra y aceite, y meter al horno otros 20 minutos."
     ],
     "image": "lubina-horno.jpg"
+  },
+  {
+    "title": "Alitas en Freidora de Aire",
+    "ingredients": [
+      "Alitas",
+      "Pimienta negra",
+      "1 cucharadita de ajo granulado",
+      "1/3 de cucharadita de comino",
+      "1 cucharadita de pimentón dulce",
+      "1/2 cucharadita de sal",
+      "1/2 cucharadita de aceite"
+    ],
+    "steps": [
+      "Colocar las alitas en un bol, previamente limpias.",
+      "Añadir sobre las alitas todos los ingredientes y remover (con las manos o con cubiertos, pero que todas las alitas queden bien impregnadas.",
+      "Colocar en la freidora de aire, 30 minutos a 180º. Cada 8 minutos removerlas un poco, y quizás no hagan falta los 30 minutos."
+    ]
+  },
+  {
+    "title": "Hojaldre de carne",
+    "ingredients": [
+      "450gr. de carne picada mixta",
+      "1 ajo",
+      "1 cebolla",
+      "1 zanahoria",
+      "1 tomate rallado",
+      "Sal",
+      "Pimienta negra",
+      "2 láminas de hojaldre"
+    ],
+    "steps": [
+      "En sartén o cazuela, limpiar y picar el ajo, cebolla y zanahoria, y sofreír.",
+      "Cuando esté listo, salpimentamos la carne, y la sofreimos.",
+      "Añadir un tomate rallado, y cocinar.",
+      "Dejar que se enfríe, o al menos que se temple un poco, y colocar en el hojaldre. Cerrar bien.",
+      "Hornear según las indicaciones del hojaldre"
+    ]
   }
 ]
