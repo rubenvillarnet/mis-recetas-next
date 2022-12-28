@@ -4,7 +4,7 @@
     "ingredients": [
       "200 gr. de arroz",
       "100 gr. de azucar",
-      "3/4 de litro de leche",
+      "1 litro de leche",
       "ramita de canela",
       "corteza de limón"
     ],
@@ -16,7 +16,8 @@
       "Retirar del fuego y no abrir aún, 5 minutos más.",
       "Abrir bajo el grifo, si no ha bajado la válvula."
     ],
-    "image": "arroz-leche.jpeg"
+    "image": "arroz-leche.jpeg",
+    "footnote": "La cantidad de leche puede ser entre 3/4 y 1 litro, según te guste más seco o jugoso."
   },
   {
     "title": "Arroz con leche",
