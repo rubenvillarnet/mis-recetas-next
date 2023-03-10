@@ -169,15 +169,15 @@
   {
     "title": "Croquetas",
     "ingredients": [
-      "Restos de carne o pollo,o jamón york... lo que queremos añadir a nuestras croquetas.",
-      "1 litro de leche",
+      "Restos de carne o pollo, o jamón york... lo que queremos añadir a nuestras croquetas.",
+      "1 litro de leche templada",
       "4 cucharadas colmadas de harina",
       "Aceite",
       "Sal"
     ],
     "steps": [
       "La leche es preferible que esté tibia. La podemos calentar al microondas.",
-      "Ponemos en una sartén (mejor pequeña) el aceite, que cubra el fondo.",
+      "Ponemos en una sartén el aceite, que cubra el fondo.",
       "Cuando esté caliente se añade la harina de una vez y se da vueltas para que se mezcle bien la harina con el aceite, y se dore un poco (si añadimos la leche antes de que la harina se haya mezclado bien con el aceite, nuestras croquetas sabrán a harina).",
       "Cuando esté, se va añadiendo la leche caliente o templada, poco a poco, y se va uniendo hasta que no queden grumos (si es necesario podemos usar la batidora).",
       "Cuando echemos la última parte de leche lo salamos en la misma sartén.",
@@ -185,12 +185,13 @@
       "Cuando ya tengamos la besamel, añadimos el ingrediente elegido (debe estar cocinado, ¡no podemos echar pollo crudo!), lo unimos bien y lo pasamos a un plato para que se enfríe.",
       "Cuando la masa esté fría totalmente, se cogen trocitos, se pasan por huevo y pan rallado.",
       "Las podemos congelar así o freír para comer."
-    ]
+    ],
+    "footnote":"Las proporciones aproximadas: 70 gr. de harina, 135 de pollo (o lo que añadamos) y unos 500 ml de leche. Para estas cantidades, sartén grande."
   },
   {
-    "title": "Filetes de la raya o espaldilla",
+    "title": "Filetes de la raya (espaldilla) o picaña",
     "ingredients": [
-      "Filetes de espaldilla",
+      "Filetes en cuestión",
       "Aceite",
       "Cebolla",
       "Ajo",
