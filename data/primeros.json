@@ -655,6 +655,20 @@
     ]
   },
   {
+    "title": "Verduras al vapor",
+    "ingredients": [
+      "Verdura: coliflor, berza, alubias verdes...",
+      "patatas",
+      "sal"
+    ],
+    "steps": [
+      "Lavar y cortar la verdura.",
+      "Pelar y cortar o cascar las patatas.",
+      "Añadir sal por encima, y sobre la sal añadir agua (aproximadamente una taza grande). No hace falta poner cestillo.",
+      "Se cierra la olla y se deja 15 minutos con presión"
+    ]
+  },
+  {
     "title": "Puré de alubia blanca de bote",
     "ingredients": [
       "2 botes grandes de alubia blanca",
