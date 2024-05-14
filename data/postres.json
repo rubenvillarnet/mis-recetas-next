@@ -647,5 +647,46 @@
       "Cuando esté dura, añadir la mermelada, y a disfrutar!"
     ],
     "image": "tarta-queso-philadelphia.jpg"
+  },
+  {
+    "title": "Bizcocho de flan",
+    "ingredients": [
+      "1 sobre de flan Fanín el niño o Potax",
+      "3 huevos medianos (mejor a temperatura ambiente)",
+      "125 gr. de azúcar",
+      "100 ml de aceite de girasol",
+      "100 ml. de leche entera",
+      "150 gr. de harina",
+      "1 sobre de levadura"
+    ],
+    "steps": [
+      "Batir los huevos con el azúcar, al menos durante 3 minutos, para que blanquéen",
+      "Añadir el aceite y continuar batiendo",
+      "Añadir la leche y continuar batiendo",
+      "Añadir el sobre de flan y continuar batiendo",
+      "Mezclar el sobre de levadura con la harina",
+      "Sin batir, pero con la misma herramienta de varillas, tamizar la harina con la levadura sobre la mezcla y envolver bien",
+      "Hornear 30 minutos a 180º con calor arriba y abajo. Si el palillo sale limpio, está hecho. Si sale húmedo, déjalo un poco más. Para este bizcocho queda muy bien el típico molde con forma de rosquilla.",
+      "Opcional: esparcir azucar glassé sobre el bizcocho."
+
+    ]
+  },
+  {
+    "title": "Palomitas de maíz",
+    "ingredients": [
+      "100 gr. de maíz",
+      "2 cucharadas de aceite"
+    ],
+    "steps": [
+      "Pon la sarten con el fuego fuerte, con el aceite, y solo 3 granitos de maíz en él. Y tapa.",
+      "Cuando las 3 palomitas estallen, apaga el fuego, y añade el resto de palomitas. Pon la tapa y menea un poco la sartén para que todo el maíz tenga aceite. Tras 30 segundos enciende el fuego a una potencia media.",
+      "Cuando dejen de estallar las palomitas, las tienes listas.",
+      "Puedes añadir sal, o hacer caramelo.",
+      "Para 100 gr. de palomitas necesitas 200gr. de azúcar, y 110gr. de mantequilla y la puntita de una cucharilla de bicarbonato",
+      "Para 50 gr. de palomitas necesitas 100 gr. de azúcar y 55 gr. de mantequilla y la puntita de una cucharilla de bicarbonato",
+      "Pon en un recipiente alto (cazuela o sartén honda) la mantequilla con el azúcar a fuego medio, y no dejes de remover. Cuando burbujée, déjalo un poco, y cuando alcance el color dorado lo tienes listo, añade entonces el bicarbotato. Retira del fuego y añade las palomitas, remueve para que todas tengan caramelo.",
+      "El bicarbonato hace que el azúcar no endurezca."
+
+    ]
   }
 ]
