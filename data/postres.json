@@ -113,7 +113,8 @@
       "Cuando esté fundido añadimos la almendra. No parar de remover.",
       "Se pone en las cápsulas para bombones y se deja enfriando en el frigorífico.",
       "Se pueden guardar en el congelador."
-    ]
+    ],
+    "image": "bombones.jpg"
   },
   {
     "title": "Cocadas o sultanas",
@@ -688,7 +689,8 @@
       "El bicarbonato hace que el azúcar no endurezca."
 
     ]
-  }, {
+  }, 
+  {
     "title": "Tortitas de harina de arroz",
     "ingredients": [
       "1 taza de harina de arroz",
