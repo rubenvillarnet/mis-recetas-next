@@ -690,5 +690,24 @@
       "Se cierra la olla. Se deja 20 minutos con presión.",
       "Se puede arreglar con pimentón dulce, añadiendo un poco de aceite con pimentón en cada plato."
     ]
+  },
+  {
+    "title": "Hamburguesas de coliflor",
+    "ingredients": [
+      "Coliflor cocinada",
+      "Queso rallado",
+      "Huevo",
+      "Pan rallado",
+      "pimienta negra (opcional)"
+    ],
+    "steps": [
+      "Cocina la coliflor, y retira todo el agua posible.",
+      "Aplasta la coliflor con un tenedor y añade queso rallado, pan rallado, huevo batido y sal (y pimienta negra opcionalmente).",
+      "Revuelve bien y mezcla hasta obtener una masa",
+      "Da forma a las hamburguesas, y pásalas por el pan rallado",
+      "Fríelas en una sartén con aceite caliente, y a disfrutar!"
+    ],
+    "footnote": "Esta es una buena receta de aprovechamiento, si te sobra coliflor con patatas del día anterior, no la tires! Aplástalo todo, y añade huevo, pan rallado y queso, y queda delicioso. Las cantidades de queso y pan rallado son a ojo.",
+    "image": "hamburguesas-coliflor.jpg"
   }
 ]
