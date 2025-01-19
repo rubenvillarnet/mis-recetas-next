@@ -547,5 +547,23 @@
       "Dejar que se enfríe, o al menos que se temple un poco, y colocar en el hojaldre. Cerrar bien.",
       "Hornear según las indicaciones del hojaldre"
     ]
+  },
+  {
+    "title": "Tortillitas de calabacín",
+    "ingredients": [
+      "trozo de calabacín",
+      "1 o 2 huevos",
+      "sal",
+      "pimienta",
+      "harina"
+    ],
+    "steps":[
+      "Esto es una receta de aprovechamiento, para aprovechar ese trocito de calabacín que tienes en el frigo.",
+      "Ralla el calabacín, y escúrrelo bien, quita todo el líquido que puedas",
+      "Ponlo en un plato o bol, y añade un huevo o dos (depende de cuanto calabacín tengas, y de si quieres más calabacín o menos en cada tortillita)",
+      "Mézclalo bien y añade sal y pimienta al gusto",
+      "Añade también una cucharada o dos de harina, para dar un poco de cuerpo a las tortillas",
+      "Con un poquito de aceite en la sartén, añade una cucharada de la mezcla y fríe a fuego medio"
+    ]
   }
 ]
