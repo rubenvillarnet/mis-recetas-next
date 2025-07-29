@@ -709,5 +709,22 @@
     ],
     "footnote": "Esta es una buena receta de aprovechamiento, si te sobra coliflor con patatas del día anterior, no la tires! Aplástalo todo, y añade huevo, pan rallado y queso, y queda delicioso. Las cantidades de queso y pan rallado son a ojo.",
     "image": "hamburguesas-coliflor.jpg"
+  },
+  {
+    "title": "Sopa (caldo) de la tía Mary",
+    "ingredients": [
+      "Hueso crudo",
+      "Carne (por ejemplo, 400gr de morcillo)",
+      "Tocino o panceta",
+      "Choricillo",
+      "Pollo (1 muslo o carcasa), o gallina",
+      "Verdura: arreglo para cocido, bolsita preparada que venden en los supermercados",
+      "1 pastilla de avecrem, y luego ya se corregirá de sal"
+    ],
+    "steps": [
+      "Colocar todo en la olla express con agua, toda la que admita la olla",
+      "Dejar hervir con la tapa abierta, y quitar la espuma que se forma",
+      "Cuando ya no salga espuma, cerrar la olla, tener media hora con presión, y listo"
+    ]
   }
 ]
