@@ -820,5 +820,27 @@
          
     ],
     "footnote":"Con estas cantidades salen 8 gofres"
+  },
+  {
+    "title": "Tortitas de avena y manzana",
+    "ingredients": [
+      "3/4 de taza de avena",
+      "2 huevos",
+      "1 manzana",
+      "1 cucharada de azucar o endulzante de tu elección",
+      "un chorrito de vainilla",
+      "1 cucharadita de canela",
+      "1 cucharadita de polvo de hornear",
+      "1/2 taza de leche",
+      "mantequilla"
+    ],
+    "steps": [
+      "Pela la manzana y partela en cubitos pequeños",
+      "Pon todos los ingredientes en un bol",
+      "Pon una sarten antiadherente al fuego con un poquito de mantequilla extendida (8 de 9, y cuando esté caliente lo bajas a 6 de 9)",
+      "Añade un poco de masa para hacer cada tortita, y cocina por ambos lados. Añade un poco de mantequilla con cada nueva ronda de tortitas. "
+    ],
+    "footnote": "Con estas cantidades salen 24 tortitas pequeñas",
+    "image": "tortitas-avena-manzana.jpg"
   }
 ]
