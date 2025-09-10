@@ -565,5 +565,18 @@
       "Añade también una cucharada o dos de harina, para dar un poco de cuerpo a las tortillas",
       "Con un poquito de aceite en la sartén, añade una cucharada de la mezcla y fríe a fuego medio"
     ]
-  }
+  },
+  {
+    "title": "La mejor tortilla francesa",
+    "ingredients": [
+      "1 huevo",
+      "1 cucharada de mayonesa (grande)",
+      "un poco de aceite o mantequilla, un poquito de grasa"
+    ],
+    "steps":[
+      "Mezcla un huevo con una cucharada grande de mayonesa y bate",
+      "Añade un poco de grasa, puede ser un poco de mantequilla atemperada, o un chorrito de aceite, solo un poco",
+      "Coloca en un bol y llevalo al microondas entre 30 y 40 segundos a máxima potencia."
+    ]
+    }
 ]
