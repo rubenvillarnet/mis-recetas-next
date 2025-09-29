@@ -76,5 +76,45 @@
             "Dejar que se haga sin mover"
         ],
         "footnote": "nos puede servir como base para un flan o pudin, o cualquier otra receta dulce"
+    },
+    {
+        "title": "Pan express sin levado",
+        "ingredients":[
+            "175 gr (o ml) de agua tibia",
+            "15 gr de levadura fresca, o 5gr de la seca de panadero (o un sobre de levadura de panadero)",
+            "20 gr (o ml) de aceite de oliva virgen extra",
+            "1 cucharadita de sal",
+            "300 gr de harina de trigo"
+        ],
+        "steps":[
+            "Ponemos en un bol todos los ingredientes EXCEPTO la harina, y removemos hasta que la levadura esté diluida",
+            "Incorporamos la harina tamizándola, y mezclamos",
+            "Cuando ya esté más o menos todo junto, se puede pasar a la mesa poniendo un poco de harina, y se sigue amasando a mano. Trabajar la masa durante 10 minutos aproximadamente.",
+            "Damos forma a la masa, redonda o alargada, según el molde que tengamos. Se coloca en el molde un poco engrasado, sin aplastar. El molde solo servirá para que no se desparrame. Se puede hacer un corte para que abra por ahí",
+            "Se mete al horno SIN PRECALENTAR, tapado con papel de plata para que no se queme, durante 40 minutos a 220º",
+            "Pasado ese tiempo se hornea 5 minutos más sin la tapa, para que se dore.",
+            "sacamos del horno y desmoldamos con cuidado; se pone sobre una rejilla para que enfríe"
+        ],
+        "footnote": "Sale un pan de medio kilo"
+    },
+    {
+        "title": "Panes o bollitos a la sartén",
+        "ingredients":[
+            "250 gr de harina de trigo",
+            "Un sobre de levadura de panadero, o 2 cucharaditas de polvo de hornear",
+            "4 grs de sal al gusto",
+            "3 cucharadas de aceite",
+            "120 ml de agua tibia",
+            "Especias al gusto (cebolla en polvo, ajo, comino, chocolate...."
+        ],
+        "steps":[
+            "Poner la harina tamizada con la levadura y agregar la sal",
+            "Agregar el agua tibia y el aceite y mezclar",
+            "Amasar hasta obtener una masa lisa, primero en el bol, y luego seguir en la encimera",
+            "Separar la masa en 8 partes, y añadir las especias deseadas al gusto.",
+            "Aplastar cada bollo, más o menos medio centimetro o 1 centímetro de espesor",
+            "Calentar una sartén antiadherente a fuego medio y no cocinar más de 1 o 2 minutos de cada lado, o hasta que esté dorado"
+        ],
+        "footnote": "Se pueden congelar sin cocinar, o después de cocinados. Incluso rellenos ya con su queso y chorizo, o lo que se desee"
     }
 ]
